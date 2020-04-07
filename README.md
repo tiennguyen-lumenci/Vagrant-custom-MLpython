@@ -16,8 +16,10 @@ https://download.virtualbox.org/virtualbox/6.1.4/Oracle_VM_VirtualBox_Extension_
      Tools -> Preferences -> Extensions -> 
 	 addextention(+ button on the right)-> brown to VMBox extension 
 	 -> install
+
 Install Vagrant provision package controller (it's the parent form of Terraform)
 https://www.vagrantup.com/downloads.html - install with default options
+
 While you at it, you might want to optionally install Git
 https://git-scm.com/
 
