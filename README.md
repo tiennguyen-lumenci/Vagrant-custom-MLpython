@@ -50,6 +50,6 @@ The following steps are need all the time
    or by type "vagrant halt" in powershell
 
 Trouble shooting note: if when you run vagrant up and you see a timeout warning
-please open the Vagrantfile and go to line 5 where you see "bridge:" to change the name of your machine network connector
-the easy way is to find what you need is - open virtualbox -> select docker-test1 (this is the VM we trying to create and ssh to)
--> setting -> networks -> adapter 2 -> expand "name" and replace what inside line 5 with the wireless adapter that you found
+please open the Vagrantfile and go to line 5 where you see "bridge:" to change the name of your machine network connector.
+The easy way is to find what you need from - open virtualbox -> select docker-test1 (this is the VM we're trying to create and ssh to)
+-> setting -> networks -> adapter 2 -> expand "name" and replace what insides line 5 with the wireless adapter that you found
