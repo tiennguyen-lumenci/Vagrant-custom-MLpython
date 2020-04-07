@@ -20,7 +20,7 @@ https://download.virtualbox.org/virtualbox/6.1.4/Oracle_VM_VirtualBox_Extension_
 Install Vagrant provision package controller (it's the parent form of Terraform)
 https://www.vagrantup.com/downloads.html - install with default options
 
-While you at it, you might want to optionally install Git
+While you're at it, you might want to optionally install Git
 https://git-scm.com/
 
 Importance: please turn on Intel virtual x or Amd virtual u technology in your bios
@@ -35,7 +35,7 @@ Prepare for running:
 1. open PowerShell and enter the following commands
 1.1 vagrant plugin install vagrant-disksize
 1.2 vagrant plugin install vagrant-docker-compose
-Note: you only need to enter the above commands only for the first time you running vagrant
+Note: you only need to enter the above commands on the first vagrant run
 
 The following steps are need all the time 
 ...still open powershell
@@ -50,6 +50,6 @@ The following steps are need all the time
    or by type "vagrant halt" in powershell
 
 Trouble shooting note: if when you run vagrant up and you see a timeout warning
-please open the Vagrantfile and go to line 5 where you see "bridge:" to change the name of your machine connector
-the easy way is to find out the name by - open virtualbox -> select docker-test1 (this is the VM we trying to create and ssh to)
+please open the Vagrantfile and go to line 5 where you see "bridge:" to change the name of your machine network connector
+the easy way is to find what you need is - open virtualbox -> select docker-test1 (this is the VM we trying to create and ssh to)
 -> setting -> networks -> adapter 2 -> expand "name" and replace what inside line 5 with the wireless adapter that you found
