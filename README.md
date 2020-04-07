@@ -2,11 +2,11 @@
 These automation script will enable a VM envirolment that has the following build in:
 - Ubuntu 18.04 latest
 - Miniconda >4.0 with python 3.7
-- Conda dev36 env with python 3.6, pandas, TF|keras wiout GPU support
+- Conda dev36 env with python 3.6, pandas, TF|keras without GPU support
 - Docker and Docker Compose
 
 preRequisites:
-I still trying to figureout how to automated this step using powershell for window
+I'm still trying to figureout how to automated this step using powershell for window
 for now please do:
 install Virtualbox and its extension pack:
 https://download.virtualbox.org/virtualbox/6.1.4/VirtualBox-6.1.4-136177-Win.exe
