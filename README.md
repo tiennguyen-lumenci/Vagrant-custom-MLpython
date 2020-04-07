@@ -33,8 +33,10 @@ Note: so you have everything under Hyper-V selected but Hyper-V Hypervisor optio
 
 Prepare for running:
 1. open PowerShell and enter the following commands
-1.1 vagrant plugin install vagrant-disksize
-1.2 vagrant plugin install vagrant-docker-compose
+
+  1.1> vagrant plugin install vagrant-disksize
+  1.2> vagrant plugin install vagrant-docker-compose
+
 Note: you only need to enter the above commands on the first vagrant run
 
 The following steps are need all the time 
