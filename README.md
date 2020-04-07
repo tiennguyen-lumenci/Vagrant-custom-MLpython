@@ -41,15 +41,18 @@ Note: you only need to enter the above commands on the first vagrant run
 
 The following steps are need all the time 
 ...still open powershell
+
 2. Brown to this location where you see 'me' and the Vagrantfile
+
 3. type in:
    vagrant up
-   - wait until you have the control back then
+   
+   ### wait until you have the control back
    vagrant ssh
-   you are ssh to your virtual machine nice!
-   type "exit" to go back to window
-   and ALWAY ...  ALWAY remember to turn off your VM by using virtualbox, 
-   or by type "vagrant halt" in powershell
+   ### you are ssh to your virtual machine nice!
+   ### type "exit" to go back to window
+   ### and ALWAY ...  ALWAY remember to turn off your VM by using virtualbox, 
+   ### or by type "vagrant halt" in powershell
 
 Trouble shooting note: if when you run vagrant up and you see a timeout warning
 please open the Vagrantfile and go to line 5 where you see "bridge:" to change the name of your machine network connector.
