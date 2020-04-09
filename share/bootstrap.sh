@@ -15,5 +15,4 @@ cat >> /home/vagrant/.bashrc << END
 PATH=/opt/anaconda/bin:\$PATH
 source activate base
 conda init --all
-
 END
