@@ -1,0 +1,1209 @@
+<|startoftext|>
+NON-DISCLOSURE AGREEMENT (NDA)
+
+This Nondisclosure Agreement (the "Agreement") is entered into by and between _______________ with its principal offices at _______________, ("Disclosing Party") and _______________, located at _______________ ("Receiving Party") for the purpose of preventing the unauthorized disclosure of Confidential Information as defined below. The parties agree to enter into a confidential relationship concerning the disclosure of certain proprietary and confidential information ("Confidential Information"). 
+1. Definition of Confidential Information. For purposes of this Agreement, "Confidential Information" shall include all information or material that has or could have commercial value or other utility in the business in which Disclosing Party is engaged. If Confidential Information is in written form, the Disclosing Party shall label or stamp the materials with the word "Confidential" or some similar warning. If Confidential Information is transmitted orally, the Disclosing Party shall promptly provide writing indicating that such oral communication constituted Confidential Information.
+2. Exclusions from Confidential Information. Receiving Party's obligations under this Agreement do not extend to information that is: (a) publicly known at the time of disclosure or subsequently becomes publicly known through no fault of the Receiving Party; (b) discovered or created by the Receiving Party before disclosure by Disclosing Party; (c) learned by the Receiving Party through legitimate means other than from the Disclosing Party or Disclosing Party's representatives; or (d) is disclosed by Receiving Party with Disclosing Party's prior written approval.
+3. Obligations of Receiving Party. Receiving Party shall hold and maintain the Confidential Information in strictest confidence for the sole and exclusive benefit of the Disclosing Party. Receiving Party shall carefully restrict access to Confidential Information to employees, contractors and third parties as is reasonably required and shall require those persons to sign nondisclosure restrictions at least as protective as those in this Agreement. Receiving Party shall not, without the prior written approval of Disclosing Party, use for Receiving Party's benefit, publish, copy, or otherwise disclose to others, or permit the use by others for their benefit or to the detriment of Disclosing Party, any Confidential Information. Receiving Party shall return to Disclosing Party any and all records, notes, and other written, printed, or tangible materials in its possession pertaining to Confidential Information immediately if Disclosing Party requests it in writing.
+4.   Time Periods. The nondisclosure provisions of this Agreement shall survive the termination of this Agreement and Receiving Party's duty to hold Confidential Information in confidence shall remain in effect until the Confidential Information no longer qualifies as a trade secret or until Disclosing Party sends Receiving Party written notice releasing Receiving Party from this Agreement, whichever occurs first.
+
+5. Relationships. Nothing contained in this Agreement shall be deemed to constitute either party a partner, joint venture or employee of the other party for any purpose.
+6. Severability. If a court finds any provision of this Agreement invalid or unenforceable, the remainder of this Agreement shall be interpreted so as best to affect the intent of the parties.
+7.  Integration. This Agreement expresses the complete understanding of the parties with respect to the subject matter and supersedes all prior proposals, agreements, representations, and understandings. This Agreement may not be amended except in writing signed by both parties.
+8. Waiver. The failure to exercise any right provided in this Agreement shall not be a waiver of prior or subsequent rights.
+9. Notice of Immunity. Employee is provided notice that an individual shall not be held criminally or civilly liable under any federal or state trade secret law for the disclosure of a trade secret that is made (i) in confidence to a federal, state, or local government official, either directly or indirectly, or to an attorney; and (ii) solely for the purpose of reporting or investigating a suspected violation of law; or is made in a complaint or other document filed in a lawsuit or other proceeding, if such filing is made under seal. An individual who files a lawsuit for retaliation by an employer for reporting a suspected violation of law may disclose the trade secret to the attorney of the individual and use the trade secret information in the court proceeding, if the individual (i) files any document containing the trade secret under seal; and (ii) does not disclose the trade secret, except pursuant to court order.
+This Agreement and each party's obligations shall be binding on the representatives, assigns and successors of such party. Each party has signed this Agreement through its authorized representative.
+
+DISCLOSING PARTY
+Signature _____________________________________________________
+Typed or Printed Name ___________________________ Date: _______________
+
+RECEIVING PARTY
+Signature _____________________________________________________ 
+Typed or Printed Name ___________________________ Date: _______________
+
+<|endoftext|>
+<|startoftext|>
+
+BUSINESS PLAN NON-DISCLOSURE AGREEMENT
+
+This BUSINESS PLAN NON-DISCLOSURE AGREEMENT (hereinafter known as the “Agreement”) between _________________________ (hereinafter known as the “Company”) and ________________________ (hereinafter known as the “Recipient”) becomes effective as of this ____ day of ____________________, ___ (hereinafter known as the “Effective Date”). 
+Article I: Recitals	
+The Company wishes to share their business plan (hereinafter known as the “Business Plan”) with the Recipient for the purposes of review, examination, inspection or contribution, while maintaining confidentiality. The Company and the Recipient, collectively known as the “Parties”, understand and agree that dissemination of information or materials within or related to the Business Plan would be detrimental to the integrity of the Company. For the purposes of this Agreement, all information, strategies, plans, trade secrets, objectives and materials will be referred to as “Confidential Information”, and the Company may share Confidential Information with the Recipient subject to the terms and covenants set forth below. 
+Article II: Recipient Obligations
+A. Non-Disclosure. The Recipient understands and agrees to not use or disclose the Business Plan or Confidential Information for personal benefit or the benefit of any other person, corporation, association, company or entity, and shall take all steps necessary to protect Confidential Information from disclosure. The Recipient further agrees not to disclose the fact that the Business Plan has been made available, that discussions or negotiations are taking place or have taken place, or any of the terms, conditions or other facts with respect to the transaction. Methods of disclosure include, but are not limited to, written, oral, electronic or any other form of recording.  
+B. Disclosure. The Recipient shall only disclose the Business Plan and Confidential Information to persons within their organization on a need-to-know basis. Each person who becomes privy to the Confidential Information shall be bound by the provisions within this Agreement. This Agreement shall survive and continue after any expiration or termination of this Agreement and shall bind Recipient, its employees, agents, representatives, successors, heirs and assigns.
+C. Exceptions. The Recipient is not prohibited from using or disclosing the Business Plan or Confidential Information if 
+(i) it was publicly known;
+(ii) it was in the Recipient’s possession before the Effective Date;
+(iii) it was used in response to any legal obligation; or
+(iv) it was approved for release in writing by the Company.
+D. Legal Obligation. The Recipient is permitted to disclose Confidential Information if compelled to do so by legal request, deposition, subpoena, civil investigative demand or similar process. In such an event, the Recipient agrees, if legally permissible, to promptly notify the Company of such request, to consult with the Company on the advisability of taking legally available steps to resist or narrow such request and to assist the Company in seeking an injunctive or other protective remedy. Both Parties understand and agree that the Recipient shall execute the aforementioned pre-disclosure measures only if the action does not violate any applicable laws. Should the Company fail to obtain a protective order or waive compliance with the provisions hereof, the Company shall not hold the Recipient liable for disclosure of Confidential Information.
+Article III: Term
+The Recipient’s obligations of non-use and non-disclosure with respect to Confidential Information will remain in effect in perpetuity. 
+The Recipient’s obligations of non-use and non-disclosure with respect to Confidential Information will remain in effect for a period of ____ years from the Effective Date.
+Article IV: Return or Destruction of Confidential Information
+The Recipient shall, upon termination of this Agreement or as per the Company’s request, immediately return or destroy any and all notes, records, and written, printed or other tangible materials in its possession pertaining to the confidential Information, and shall continue to comply with all other terms and conditions of confidentiality within the Agreement. 
+Article V: No Additional Agreements
+Neither the holding of discussions nor the exchange of material or information shall be construed as an obligation of the Company to enter into any other agreement with Recipient or prohibit the Company from providing the same or similar information to other parties and entering into agreements with other parties. The Company reserves the right, in its sole discretion, to reject any and all proposals made by Recipient or its Representatives with regard to a transaction between Recipient and Company and to terminate discussions and negotiations with Recipient at any time. The Recipient agrees not to use the Business Plan or Confidential Information as a basis upon which to develop or have a third party develop a competing or similar plan or undertaking. 
+Article VI: Indemnify
+Recipient understands and acknowledges that any breach of this Agreement could result in damages, losses, costs or expenses to the Company and agrees to keep the Company indemnified in respect to any and all claims which arise out of or in connection with a violation. Recipient understands and acknowledges that any use or disclosure regarding the Business Plan or Confidential Information could cause the Company irreparable harm, the amount of which may be difficult to ascertain, and therefore agrees that the Company shall have the right to apply to a court of competent jurisdiction for specific performance or order restraining and enjoining any such further disclosure or breach and for such other relief as Company deems appropriate, in addition to the remedies otherwise available at law or in equity. 
+Article VII: Successors and Assigns
+This Agreement and each party’s obligations hereunder shall be binding on the representatives, assigns and successors of such party and shall inure to the benefit of the assigns and successors of such party; provided, however, that the rights and obligations of Recipient hereunder are not assignable. 
+Article VIII: Governing Law
+This Agreement shall be governed in accordance with the laws of the State of _____________, without regard to conflict of law principles.
+Article IX: Prevailing Party
+In a dispute arising out of or related to this Agreement, the prevailing party shall have the right to collect reasonable attorney fees, costs and other legal expenditures from the other party.
+Article X: Entire Agreement
+This Agreement sets forth the entire Agreement and understanding between the Parties and supersedes all prior agreements between them relating to the subject matter of this Agreement. This Agreement may not be altered, amended, modified, discharged, assigned or otherwise transferred by either party except by an agreement in writing signed by both Parties. 
+Article XI: Validity
+This Agreement shall maintain its integrity should a provision (or any part thereof) be claimed unenforceable by a court of competent jurisdiction due to invalidity or conflict with any relevant law, and the unenforceable provision shall be construed in such a way as to preserve the intent for which it was created. 
+Article XII: Notices
+Any notice required by or given in connection with this Agreement shall be in writing and shall be given to the appropriate party by personal delivery or by certified mail, postage prepaid or recognized overnight delivery services to the following addresses:
+Company’s Address
+______________________________
+______________________________
+______________________________
+Recipient’s Address
+______________________________
+______________________________
+______________________________
+
+
+
+
+IN WITNESS WHEREOF, the Parties hereto agree to the terms and conditions of this Agreement as of the date set forth below.
+
+Company
+Representative Signature: __________________________ Date: ______________________
+Representative Printed Name: _________________ Representative Title: _________________ 
+
+Recipient 
+Recipient Signature: __________________________ Date: ______________________
+Recipient Printed Name: _____________________ 
+
+<|endoftext|>
+<|startoftext|>
+
+BUSINESS SALE NON-DISCLOSURE AGREEMENT
+
+This BUSINESS SALE NON-DISCLOSURE AGREEMENT (hereinafter known as the “Agreement”) is entered into between ____________________ (hereinafter known as the “Company”) and _____________________ (hereinafter known as the “Potential Buyer”) for the purpose of sharing operational, financial and other information relating to the Company for the purpose of pursuing or establishing a business relationship or negotiating a contract between the parties. The Agreement is effective as of the ____ day of _________________, ___ (hereinafter known as the “Effective Date”). 
+Article I: Conditions
+The Company agrees to share trade secrets and confidential, proprietary and protected information not generally disclosed to the public (hereinafter known as “Confidential Information”) on the condition that the Potential Buyer acts in accordance with the provisions of this Agreement and agrees to use the Confidential Information solely for the consideration of a potential purchase transaction or strategic alliance. Although the Company will use all reasonable efforts to include materials which they believe to be reliable and relevant, the Company makes no representation or warranty as to the accuracy or completeness of the Confidential Information except as may be set out in a definitive agreement which may be entered into by both parties in connection with a potential transaction. 
+Article II: Confidential Information
+A. Definitions. For the purposes of this Agreement, Confidential Information refers to the Company’s businesses, operations and assets (whether in written, electronic or other form) including, but not limited to, current, future or proposed products, formulas, designs, devices, drawings, specifications, technical memoranda and correspondence, computer code, programs and algorithms, product development agreements and other related agreements.
+B. Property Rights. Confidential Information is and will, at all times, remain the property of the Company, and the Company reserves the right to disclose the Information to other persons or entities in connection with other possible transactions or for any other purpose.
+Article III: Non-Disclosure
+A. Transaction. The Potential Buyer understands and agrees that under no circumstances (except as provided in subsection (D) of this section) shall they disclose information regarding any potential transaction or any of the terms, conditions or other facts relating to this Agreement. 
+B. Information. The Potential Buyer shall only disclose Confidential Information to representatives within their organization who are required to know the Information for the purposes of furthering a potential transaction. Confidential Information is to be kept strictly confidential, and the Potential Buyer and their representatives shall not (i) make any public comment, statement or communication or otherwise disclose to any person in any manner whatsoever the Confidential Information, or (ii) use the Information for any purpose other than to evaluate and implement a potential transaction. The Potential Buyer shall not use any Confidential Information with respect to any of the financial affairs of the Company in furtherance of the Recipient’s own business, or the business of anyone else, whether or not in competition with the Company, or for any other purpose whatsoever.
+C. Representatives. It is the responsibility of the Potential Buyer to stress confidentiality to each representative with whom Confidential Information has been disclosed, and to take all reasonable, necessary and appropriate steps to safeguard the Confidential Information from disclosure.
+D. Exceptions. The Company understands and agrees that the Potential Buyer may be compelled to disclose Confidential Information, information relating to a potential transaction or terms or conditions relating to this Agreement if required by law (subpoena, civil investigative demand or similar legal process). It is the duty and responsibility of the Potential Buyer to give prompt notice to the Company so they may seek a protective order or other appropriate remedy in response to the disclosure of Confidential Information. Furthermore, the Potential Buyer is not restricted from disclosing Confidential Information if one of the following instances applies:
+(i) the information was in the Potential Buyer’s possession before such information was disclosed by the Company, with no obligation to keep it confidential;
+(ii) the information is or becomes public knowledge or lawfully available through a source other than the Potential Buyer, and through no breach of agreement on their part; or
+(iii) the Company provides written approval for the Potential Buyer to disclose said information.
+Article IV: Period of Non-Disclosure
+A. Term. This Agreement and the Potential Buyer’s duty not to disclose Confidential Information shall remain in effect until the Company sends written notice releasing the Potential Buyer from this Agreement or Confidential Information ceases to be a trade secret. 
+B. Non-Acquisition. In the event of non-acquisition by the Potential Buyer, the confidentiality and other obligations described in this Agreement continue in full force and effect for a period of ____ years from the Effective Date. 
+C. Return of Materials. Upon the Company’s request, or upon termination of this Agreement or the occurrence of a potential transaction, the Potential Buyer shall promptly return to the Company or destroy all original and copied materials (including electronic format) constituting or containing Confidential Information. Any information or materials the Company allows the Potential Buyer to retain shall be kept confidential and shall not be disclosed or given to any third party for any purpose. 
+Article V: General Provisions
+A. Remedies. The Potential Buyer understands and acknowledges that failure to act in accordance with the provisions set forth in this Agreement could cause irreparable harm to the Company, and Potential Buyer agrees that the Company is entitled to injunctive relief (or a similar remedy) to seek damages and to specifically enforce the provisions of this Agreement in addition to any other remedy available to it at law or in equity.  
+B. Entire Agreement. This Agreement contains the entire agreement between the parties concerning matters set out within, and no amendment to this Agreement or waiver of its terms is binding upon the parties unless approved in writing by each of them. 
+C. Non-Agreement. Except as specifically set out in this Agreement, no party is under any legal obligation with respect to a potential transaction unless a definitive agreement between the parties has been signed.
+D. Severability. If a court of competent jurisdiction finds any provision within this Agreement to be invalid, illegal or unenforceable, that provision will be severed from the Agreement and the remaining provisions shall continue in full force and effect, without amendment. 
+E. Governing Law. This Agreement shall be governed in accordance with the laws of the State of ______________________.
+F. Fees/Expenses. In a dispute arising out of or related to this Agreement, the prevailing party shall have the right to collect from the other party its reasonable costs, attorney fees, and necessary expenditures.
+G. Notice. Any notice required by or given in connection with this Agreement shall be in writing and shall be given to the appropriate party by personal delivery or by certified mail, postage prepaid or recognized overnight delivery services to the following addresses:
+Company’s Address
+______________________________
+______________________________
+______________________________
+Recipient’s Address
+______________________________
+______________________________
+______________________________
+
+
+
+
+
+
+
+
+IN WITNESS WHEREOF, the parties hereto acknowledge that by signing this agreement, they agree to hold all matters strictly confidential and abide by all the terms and conditions therein. 
+
+Company
+
+Representative Signature: __________________________ Date: ______________________
+Representative Printed Name: _________________ Representative Title: _________________ 
+
+Potential Buyer
+
+Potential Buyer Signature: __________________________ Date: ______________________
+Potential Buyer Printed Name: _____________________ 
+
+<|endoftext|>
+<|startoftext|>
+
+CEASE AND DESIST LETTER
+(VIOLATION OF NON-DISCLOSURE AGREEMENT)
+
+_________________________
+_________________________
+_________________________
+
+Dear _____________________________,
+
+This letter is served upon you pursuant to a breach of your __________________ Non-Disclosure Agreement, which has been in effect since the ____ day of ___________________, ____. 
+It has come to our attention that you have used or disclosed Confidential Information in clear violation of Article ___, Section ___ of your Agreement. 
+Accordingly, we demand that you immediately desist from further using or disclosing Confidential Information and confirm in writing within twenty-four (24) hours your intent to do so. We require that you provide us with the following information and documents to confirm your compliance with this demand:
+____________________________________________________________________________
+____________________________________________________________________________
+____________________________________________________________________________
+
+You will not receive another cease and desist letter from this office. Should you fail to produce a confirmation in writing within twenty-four (24) hours, a lawsuit will be commenced immediately.
+	
+Sincerely,
+
+Name ___________________________
+Address _________________________
+________________________________
+Phone Number ____________________
+
+<|endoftext|>
+<|startoftext|>
+
+COMMERCIAL REAL ESTATE NON-DISCLOSURE AGREEMENT
+
+This COMMERCIAL REAL ESTATE NON-DISCLOSURE AGREEMENT (hereinafter known as the “Agreement”) is made between ________________________ (hereinafter known as the “Buyer”), ___________________________ (hereinafter known as the “Seller”) and _________________________ (hereinafter known as the “Agent”) in consideration of disclosure of confidential and proprietary information in connection with the Buyer’s consideration of purchasing, leasing or investing in real estate owned and/or managed by the Seller, effective on this ____ day of _________________, ____ (hereinafter known as the “Effective Date”). 
+
+Article I: The Property
+In order to allow the Buyer to properly evaluate a possible acquisition or investment of ____________________________________________________________________________ (hereinafter known as the “Property”), the Seller will furnish the Buyer with confidential and proprietary information. The Buyer shows genuine interest in the Property and understands and acknowledges the sensitive nature of the confidential information. 
+
+Article II: Confidential Information
+A. Definitions. “Confidential Information” refers to all technical, marketing, financial and other business information and material that is confidential and proprietary, whether in oral, written, electronic or other form, and all reports, notes, analyses, studies or other documents which contain or otherwise reflect any such information. 
+B. Exclusions. Confidential Information does not include information which:
+	(i) was in the Buyer’s possession prior to disclosure by the Seller;
+(ii) is or becomes available to the public through no act or breach of agreement by the Buyer;
+(iii) is received by the Buyer through a third party who is not bound by any obligations of confidentiality relating to such information; or
+(iv) has been developed by the Buyer or any third party without any use of, reliance on, or reference to any Confidential Information.
+C. Return of Confidential Information. At the conclusion of any negotiation, agreement or transaction relating to the Property, upon termination of this Agreement or at the request of the Seller, the Buyer agrees to promptly return or destroy all Confidential Information without retaining any copies thereof or any notes relating thereto. 
+
+Article III: Disclosure
+A. Non-Disclosure. The Buyer shall not use or disclose Confidential Information for any purpose other than evaluation in regard to a possible acquisition or investment or to any other person or business entity, nor shall the Buyer permit any third party (employees, officers, directors, agents, consultants or contractors) to do the same. The Buyer shall not and shall not permit any third party to disclose to any other person or business entity the fact that any discussion or negotiations are taking place with respect to the Property. All parties agree to keep potential transactions and the terms of this Agreement completely confidential. 
+B. Representatives. Confidential Information shall only be disclosed to the Buyer’s employees, officers, directors, agents, consultants or contractors who need to know such information solely in connection with business opportunities relating to the Property. All such representatives shall be informed by the Buyer of the confidential nature of the Information and shall be bound by the terms herein. 
+C. Compelled Disclosure. Buyer may disclose Confidential Information only when acting in compliance with a civil investigative demand, valid court order or other legal obligation, provided that the Buyer notifies the Seller of any such request as promptly as feasible. 
+
+Article IV: Term
+This Agreement and all the terms, conditions and provisions hereof shall survive for a period of ______________ from the date of the closing of any purchase, lease or investment agreement, whether the transaction is successful or unsuccessful, or if the Confidential Information becomes publicly available, whichever occurs first. 
+
+Article V: General Provisions
+A. Entire Binding Agreement. This Agreement sets forth the entire understanding and agreement between the parties with respect to the subject matter hereof and supersedes all other oral or written representations and understandings. This Agreement may only be amended or modified by a writing signed in advance by the parties. This Agreement is binding upon the successors, assigns and legal representatives of the parties, and protects Confidential Information of any successors or assigns of the Seller.
+B. Remedies. The Buyer understands and agrees that failure to perform any and all obligations hereunder, or failure to comply with any terms or conditions hereof, could cause the Seller irreparable harm for which monetary damages are not adequate compensation. Accordingly, the Seller shall be entitled to injunctive relief to specifically enforce the terms of this Agreement, in addition to any other remedies available to it at law or in equity.
+C. Accuracy. Seller makes no representations or warranties with respect to the accuracy or completeness of the Confidential Information or otherwise under this Agreement, and hereby disclaims all implied warranties. Buyer agrees not to hold liable the Seller, Agent nor any other representative arising from the use or disclosure of the Confidential Information. 
+D. Contact. Buyer shall not contact any of the Property’s employees, suppliers, customers or tenants, nor enter into any discussion with the above-mentioned, at the Property without the express written permission of the Seller. 
+E. Severability. If any provision of this Agreement is held to be illegal, invalid or unenforceable, such provision shall be eliminated or limited to the minimum extent such that the legality, validity and enforceability of the remaining provisions will not be affected or impaired.
+F. Governing Law. This Agreement will be governed by and construed in accordance with the laws of the State of __________________ without reference to its choice of law rules and as if wholly performed within the State. Any litigation regarding the interpretation, breach, or enforcement of this Agreement will be filed in and heard by the state or federal courts with jurisdiction to hear such disputes in the State and both parties hereby submit to the jurisdiction of such courts.
+G. Prevailing Party. If any litigation is brought by either party regarding the interpretation or enforcement of this Agreement, the prevailing party will recover from the other all costs, attorneys’ fees and other expenses incurred by the prevailing party.
+
+IN WITNESS WHEREOF, the parties hereto understand and agree to the terms and conditions herein and have executed this Agreement as of the dates written below. 
+
+Buyer Signature __________________________ Date _________________________
+Buyer Printed Name ___________________________
+
+Seller Signature __________________________ Date _________________________
+Seller Printed Name ___________________________
+
+<|endoftext|>
+<|startoftext|>
+
+CUSTOMER LIST NON-DISCLOSURE AGREEMENT
+
+
+
+For valuable consideration, the receipt and sufficiency of which is hereby acknowledged, _________________ (“Disclosing Party”) authorizes _________________ (Receiving Party”) to use the customer list/mailing list identified as _________________ (“List”) under the following terms and conditions:
+1. List a Trade Secret.
+
+Receiving Party understands and acknowledges that List is a valuable trade secret belonging to Disclosing Party.
+2. Purpose of Disclosure.
+
+Receiving Party shall use the List only for the following purposes: __________________________.
+3. Receiving Party’s Obligations.
+
+Receiving Party shall hold and maintain the List in the strictest confidence. Receiving Party shall carefully restrict access to the List only to persons bound by this Agreement and only on a need-to-know basis. Receiving Party shall not, without Disclosing Party’s prior written approval, publish, copy, or otherwise disclose the List to others, or permit its use by others for their benefit or to Disclosing Party’s detriment.
+4. Term
+
+This Agreement and Receiving Party’s duty to hold the List in confidence shall remain in effect until the List is no longer a trade secret or until Disclosing Party sends Receiving Party written notice releasing Receiving Party from this Agreement, whichever occurs first.
+This Agreement and Receiving Party’s duty to hold the List in confidence shall remain in effect until or until whichever of the following occurs first:
+(a) Disclosing Party sends Receiving Party written notice releasing Receiving Party from this Agreement, or
+(b) The List is no longer a trade secret.
+5. No Rights Granted.
+
+Receiving Party understands and agrees that this Agreement does not constitute a grant or an intention or commitment to grant any right, title or interest in the List or any other of Disclosing Party’s trade secrets to Receiving Party.
+6. Warranty.
+
+Disclosing Party warrants that it has the right to make the disclosures under this Agreement.
+
+7. General Provisions.
+
+(a) Relationships: Nothing contained in this Agreement shall be deemed to constitute either party a partner, joint venturer or employee of the other party for any purpose.
+(b) Severability: If a court finds any provision of this Agreement invalid or unenforceable, the remainder of this Agreement shall be interpreted so as to best effect the intent of the parties.
+(c) Integration: This Agreement expresses the complete understanding of the parties with respect to the subject matter and supersedes all prior proposals, agreements, representations, and understandings. This Agreement may not be amended except in a writing signed by both parties.
+(d) Waiver: The failure to exercise any right provided in this Agreement shall not be a waiver of prior or subsequent rights.
+(e) Injunctive Relief: Receiving Party acknowledges that any misappropriation of any of the Confidential Information in violation of this Agreement may cause Disclosing Party irreparable harm, the amount of which may be difficult to ascertain, and therefore agrees that Disclosing Party shall have the right to apply to a court of competent jurisdiction for an order enjoining any such further misappropriation and for such other relief as Disclosing Party deems appropriate. This right of Disclosing Party is to be in addition to the remedies otherwise available to Disclosing Party.
+(f) Indemnity: Receiving Party agrees to indemnify Disclosing Party against any and all losses, damages, claims or expenses incurred or suffered by Disclosing Party as a result of Receiving Party’s breach of this Agreement.
+(g) Attorney Fees and Expenses: In a dispute arising out of or related to this Agreement, the prevailing party shall have the right to collect from the other party its reasonable attorney fees and costs and necessary expenditures.
+(h) Governing Law: This Agreement shall be governed in accordance with the laws of the State of ________________.
+(i) Jurisdiction: The parties consent to the exclusive jurisdiction and venue of the federal and state courts located in [insert county and state in which parties agree to litigate] in any action arising out of or relating to this Agreement. The parties waive any other venue to which either party might be entitled by domicile or otherwise.
+(j) Successors & Assigns: This Agreement shall bind each party’s heirs, successors and assigns. Receiving Party may not assign or transfer its rights or obligations under this Agreement without the prior written consent of Disclosing Party. Any assignment or transfer in violation of this section shall be void.
+
+Disclosing Party
+
+_____________________________
+(Signature)
+_____________________________
+(Typed or Printed Name)
+Title: _____________________________
+Date: _____________________________
+
+Receiving Party
+
+
+_____________________________
+(Signature)
+
+_____________________________
+(Typed or Printed Name)
+Title: _____________________________
+Date: _____________________________
+
+<|endoftext|>
+<|startoftext|>
+
+EMPLOYEE NON-DISCLOSURE AGREEMENT
+
+This EMPLOYEE NON-DISCLOSURE AGREEMENT, hereinafter known as the “Agreement”, is entered into between ___________________________ (“Employee”) and ___________________________ (“Company”), collectively known as the “Parties” as of the ____ day of ____________, ___ (the “Effective Date”). 
+
+Article I: Scope of Agreement
+This Agreement acknowledges that certain confidential information, trade secrets, and proprietary data (hereinafter defined and referred to as “Confidential Information”) of or regarding the Company may be discussed between Employee and the Company (hereinafter known collectively as the “Parties”). The provisions set forth in this Agreement define the circumstances in which the Employee can and cannot disclose Confidential Information, and include the remedies, penalties and lawful action the Company may take should such information be used or disclosed by Employee. Both Parties agree that it is in their best interests to protect the Company’s Confidential Information, and that the terms of this Agreement create a bond of trust and confidentiality between them. In consideration of Employee’s commencement of employment, or continued employment with the Company, the Parties agree as follows:
+Article II: Confidential Information
+A. Definitions. Confidential Information is any material, knowledge, information and data (verbal, electronic, written or any other form) concerning the Company or its businesses not generally known to the public consisting of, but not limited to, inventions, discoveries, plans, concepts, designs, blueprints, drawings, models, devices, equipment, apparatus, products, prototypes, formulae, algorithms, techniques, research projects, computer programs, software, firmware, hardware, business, development and marketing plans, merchandising systems, financial and pricing data, information concerning investors, customers, suppliers, consultants and employees, and any other concepts, ideas or information involving or related to the business which, if misused or disclosed, could adversely affect the Company’s business. 
+B. Exclusions. For the purposes of this Agreement, information shall not be deemed Confidential Information and the Employee shall have no obligation to keep it confidential if:
+	(i) the information was publicly known;
+	(ii) the information was received from a third party not subject to the restrictions of this Agreement and becomes available to Employee through no wrongful act or breach of Agreement on their part; or
+	(iii) the information was approved for release by Employer through written authorization.
+C. Period of Confidentiality. (Check One)
+- Employee agrees not to use or disclose Confidential Information for their own personal benefit or the benefit of any other person, corporation or entity other than the Company for a period of _______________.
+- Employee agrees not to use or disclose Confidential Information for their own personal benefit or the benefit of any other person, corporation or entity other than the Company during the Employee’s employment with the company or any time thereafter.	
+D. Limitations. Employee shall limit access to Confidential Information to individuals on a strictly need-to-know basis, involving only those who are carrying out duties related to the Company and its business. Individuals under the Employee’s command (affiliates, agents, consultants, representatives and other employees) are bound by and shall comply with the terms of this Agreement.
+E. Ownership. All repositories of information containing or in any way relating to Confidential Information is considered property of the Employer. The removal of Confidential Information from the Company’s premises is prohibited unless prior written consent is provided by the Company. All such items made, compiled or used by the Employee shall be delivered to the Employer by Employee upon termination of employment or at any other time as per the Employer’s request. 
+Article III: Inventions
+A. Prior inventions. Any inventions created or conceptualized by the Employee prior to signing the Agreement are excluded from the provisions herein.  
+B. Ownership of Inventions. Inventions constructed while under the Company’s employment are the sole property of the Company except those described under subsection (C.) of this section.
+C. Personal Inventions. Inventions developed by Employee on their own personal time not constructed on Company property, and that were not created using any Company materials, equipment, technology or information, are exempt from the provisions of the Agreement.
+Article IV: Entire Agreement
+A. Previous Agreements. This Agreement constitutes the entire agreement and the signing thereof by both Parties nullifies any and all previous agreements made between Employer and Employee. 
+B. Modifications and Amendments. No modifications, amendments, changes or alterations can be made to the Agreement unless in writing and signed by authorized representatives of both Parties. 
+C. Successors and Assigns. This Agreement shall be binding upon the successors, subsidiaries, assigns and corporations controlling or controlled by the Parties. The Company may assign this Agreement to any party at any time, whereas Employee is prohibited from assigning any of their rights or obligations in the Agreement without prior written consent from Company. 
+Article V: Nature of Relationship
+A. Non-contract. The Agreement does not constitute a contract of employment, nor does it guarantee continuing employment for the Employee. 
+B. Non-partner. The Agreement does not create a partnership or joint venture between Company and Employee. Any financial arrangements made between both Parties shall not be included in this Agreement but must be disclosed in a separate document. 
+Article VI: Severability
+Any provision within the Agreement (or any portion thereof) deemed invalid, unlawful or otherwise unusable by a court of law shall be dissolved from the Agreement and the remainder of the Agreement shall continue to be enforceable. A severed provision shall not alter the integrity of the Agreement, and the terms set forth in any severed provision shall be construed in such a way as to interpret the purpose for which it was drafted. 
+Article VII: Governing Law
+This Agreement shall be governed in accordance with the laws of the State of ___________________.
+Article VIII: Immunity
+Disclosing Confidential Information to an attorney, government representative or court official in confidence while assisting or taking part in a case involving a suspected violation of law is not considered a breach of this Agreement. Should the Employee be required to disclose Confidential Information by law, the Employee shall provide Employer with prompt notice of such request. 
+Article IX: Breach of agreement
+A. Cause for Action. Employee understands that the use or disclosure of any Confidential Information may be cause for an action at law in an appropriate court of the State of ____________ or any State of the United States, or in any federal court, and that the Employer shall be entitled to an injunction prohibiting the use or disclosure of the Confidential Information. 
+B. Indemnification. Employee understands and agrees that if the use or disclosure of Confidential Information by them or any affiliate, employee or representative of the Employee causes damage, loss, cost or expense to the Company, the Employee shall be held responsible and shall indemnify the Company.  
+C. Injunctive Relief. The Employee understands and agrees that the use or disclosure of Confidential Information could cause the Company irreparable harm and the Company has the right to pursue legal action beyond remedies of a monetary nature in the form of injunctive or equitable relief. This may be in addition to any other remedy, penalty or claim the law can provide. 
+D. Notice of Unauthorized Use or Disclosure. Employee is bound by this Agreement to notify the Company in the event of a breach of agreement involving the dissemination of Confidential Information, either by the Employee or a third party, and will do everything possible to help the Company regain possession of the Confidential Information. 
+Article X: Prevailing party
+In a dispute arising out of or in relation to this Agreement, the prevailing party shall have the right to collect from the other party its reasonable attorney fees, costs and necessary expenditures.
+
+IN WITNESS WHEREOF, the Parties hereto agree to the terms of this Agreement and signed on the dates written below.  
+
+Employee Signature _____________________________________ Date: ________________
+Employee Printed Name: _____________________________________ 
+
+<|endoftext|>
+<|startoftext|>
+
+MOVIE (FILM) NON-DISCLOSURE AGREEMENT
+
+This MOVIE NON-DISCLOSURE AGREEMENT, hereinafter known as the “Agreement”, is entered into by and between ___________________________ (the “Releasor”) and ___________________________ (the “Recipient”), effective this ____ day of ________________, ___ (the “Effective Date”). 
+
+Article I: Project
+Whereas, the Releasor is producing a film entitled ______________________ (the “Project”), all information about the film and script, including any and all concepts, ideas and materials relating thereto, and whether in written, oral, electronic or other form, shall hereafter be deemed confidential and proprietary information (“Confidential Information”). 
+Article II: Non-Disclosure
+Recipient understands and agrees that any Confidential Information shared by the Releasor cannot be used or disclosed to any other person, entity or third party except for the purposes of carrying out business relating to the Project or Releasor. It is the responsibility of the Recipient to safeguard this Confidential Information, disclosing it only to its employees, representatives, consultants and trusted personnel on a “need-to-know” basis. All representatives privy to Confidential Information shall be bound and shall abide by the terms and conditions of this Agreement. 
+Article III: Term
+Recipient shall not use or disclose Confidential Information for a period of __________________ from the Effective Date. Notwithstanding the expiration of this Agreement, all terms and provisions herein shall remain in full force and effect with respect to any Confidential Information until the Releasor terminates the Agreement or until the Confidential Information becomes public knowledge, whichever occurs first.
+Article IV: Property Rights
+Nothing in this Agreement will be construed as granting to or conferring upon Recipient any right, title, interest or license in any intellectual property rights or Confidential Information. 
+Article V: No Guarantees
+This Agreement pertains solely to the confidential nature of the Project and in no way guarantees or suggests employment of the Recipient, nor does it provide terms for compensation or expenses related to the Project. Any employment, compensation or financial arrangements made between the parties shall be written out in another contractual instrument and shall have no affect on the binding terms and conditions herein. 
+Article VI: Indemnity
+Recipient understands and agrees that any use or disclosure of Confidential Information, or any breach of this Agreement, could result in damages, losses, costs or expenses to the Releasor and agrees to keep the Releasor indemnified in respect to any and all claims which arise out of or in connection with a violation of this Agreement. Recipient further acknowledges that such a violation could cause the Releasor irreparable harm, the amount of which may be difficult to determine, and therefore agrees that the Releasor shall maintain the right to apply for injunctive or equitable relief, which may be in addition to any other remedy the law can provide.
+Article VII: Entire Agreement
+This Agreement constitutes the entire agreement and supersedes all prior and contemporaneous agreements, and may not be amended, altered or changed without written consent by both parties or their authorized representatives. 
+Article VIII: Severability
+Any provision of this Agreement (or any portion thereof) determined by a court of competent jurisdiction to be invalid, unlawful or unenforceable for any reason, the validity of the remaining provisions shall in no way be affected or impaired. 
+Article IX: Governing Law
+This Agreement will be governed by the laws of the State of _________________, without giving effect to its choice-of-law principles. 
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date below. 
+
+Releasor Signature ____________________________________ Date __________________
+Releasor Printed Name ____________________________________
+
+Recipient Signature ____________________________________ Date __________________
+Recipient Printed Name ____________________________________
+
+<|endoftext|>
+<|startoftext|>
+
+FINANCIAL INFORMATION NON-DISCLOSURE 
+
+This FINANCIAL INFORMATION NON-DISCLOSURE AGREEMENT (hereinafter the “Agreement”) is entered into by and between ___________________________ (hereinafter the “Disclosing Party”) and ___________________________ (hereinafter the “Receiving Party”), collectively known as the “Parties”, as of this ___ day of __________________, ___. 
+
+Article I: Confidential Information
+A. Definitions. For the purposes of this Agreement, all information and trade secrets concerning the business and affairs of the Disclosing Party is considered confidential and shall hereafter be referred to as “Confidential Information.” Confidential Information includes, but is not limited to, data, formulae, designs, samples, products, apparatus, inventions, ideas, research and development, manufacturing and distribution methods and processes, materials, business plans, marketing plans, trade policies and secrets, financial statements, projections and budgets, sales information, personnel lists and backgrounds, customer lists, and any other materials or information provided or shown to the Receiving Party irrespective of the form or medium, and includes all documents, records, notes, or other material containing or based in information included in the foregoing. 
+B. Exceptions. Except as laid out in subsection (A) of this article, information is not deemed confidential if, through clear and convincing evidence, the Receiving Party establishes that the information:
+(i) was public knowledge at the time the Receiving Party obtained such information;
+(ii) becomes public knowledge after Receiving Party obtains such information, through no wrongful act or breach of agreement by the Receiving Party; or
+(iii) is required to be disclosed under applicable law. 
+C. Copies. Any and all summaries, documents, notes or materials regarding Confidential Information created or gathered by the Receiving Party shall also be considered Confidential Information and shall be subject to the terms of this Agreement. 
+Article II: Property Rights
+Receiving Party Acknowledges and agrees that the Confidential Information is and shall remain the exclusive, valuable property of the Disclosing Party. 
+Article III: Non-Disclosure
+A. Purpose. Receiving Party acknowledges and agrees that Confidential Information supplied
+by the Disclosing Party is being made accessible solely on the understanding that the knowledge derived therefrom is to be used exclusively for the purpose of evaluating the business for a potential proposal, transaction, negotiation, investment, or other business opportunity and the terms thereof shall be written out in a separate agreement. 
+B. Confidentiality. Receiving Party agrees not to disclose Confidential Information to any third party (individual, company, corporation, or other entity) or to use Confidential Information for any purpose other than the reasons mentioned in section (A) of this article. Receiving Party further agrees not to disclose the fact that Confidential Information has been exchanged, that discussions or negotiations are taking place concerning any potential transaction or investment, or any of the terms or conditions of this Agreement. 
+C. Representatives. Receiving Party shall limit the availability of Confidential Information to its employees and representatives who have a need to know, and who are directly involved in the evaluation of the business and any potential transaction. It is the duty and responsibility of the Receiving Party to inform each person to whom Confidential Information is transmitted that the information is confidential and that its use and disclosure are subject to the terms and conditions of this Agreement. 
+D. Legal Disclosure. Receiving Party may be required by law (through court or administrative order, subpoena or other such legal proclamation) to disclose Confidential Information for the purposes of aiding or taking part in a case involving a violation of the law. Receiving Party shall, if legally permissible, promptly notify the Disclosing Party of any such demand for disclosure so that the Disclosing Party may seek to make such disclosure subject to a protective order or other appropriate remedy to preserve the confidentiality of the Confidential Information. Notwithstanding the foregoing, if the Disclosing Party is unable to obtain a protective order, the Receiving Party may be compelled to disclose such Confidential Information and will not be held liable. 
+Article IV: Breach of Agreement
+A. Indemnity. Receiving Party hereby agrees to hold the Disclosing Party harmless from any damages, costs or liabilities and agrees to keep the Disclosing Party indemnified with respect to damages arising out of or resulting from any unauthorized use or disclosure of the Confidential Information or other violation of this Agreement. 
+B. Injunctive Relief. Receiving Party understands and agrees that a breach of this Agreement on their part could cause the Disclosing Party irreparable harm, the extent of which would be insurmountable, and the Disclosing Party is therefore entitled to equitable relief, including injunctive relief and specific performance. Such remedies shall not be the exclusive remedies for any breach of this Agreement but shall be in addition to all other remedies available at law or in equity.  
+Article V: Survival
+A. Termination. In the event of a successful transaction, upon termination of any relationship between the Parties, or at any time upon the request of the Disclosing Party, the Receiving Party shall promptly return and/or destroy all Confidential Information in its possession without retaining any copies thereof. If the Disclosing Party requested the return of all Confidential Information, and whether a transaction did or did not take place, the Receiving Party remains bound to the terms and conditions of this Agreement in perpetuity. 
+B. Severability. Should any provision within this Agreement be found by a court of competent jurisdiction to be invalid or unenforceable, such provision shall be modified, rewritten or interpreted to include as much of its nature and scope as will render it enforceable. If the provision cannot be modified to be enforceable in any respect, it will not be given effect, and the remainder of the Agreement will be enforced as if such provision was not included. 
+Article VI: Entire Agreement 
+This Agreement constitutes the entire understanding between the Parties and supersedes any and all prior or contemporaneous understandings and agreements, whether oral or written, between the Parties, with respect to the subject matter hereof. This Agreement can only be modified by a written amendment signed by the party against whom enforcement of such modification is sought.
+Article VII: Governing Law
+The validity, construction and performance of this Agreement shall be governed and construed in accordance with the laws of the State of ______________________ without giving effect to any conflict of laws provisions thereof. 
+
+IN WITNESS WHEREOF, the Parties hereto have executed this Agreement as of the dates below. 
+
+Disclosing Party Signature _______________________________ Date _________________
+Disclosing Party Printed Name _______________________________
+
+Receiving Party Signature _______________________________ Date _________________
+Receiving Party Printed Name _______________________________
+
+
+<|endoftext|>
+<|startoftext|>
+
+
+HIPAA EMPLOYEE CONFIDENTIALITY AGREEMENT 
+
+
+THIS AGREEMENT entered into this ___ day of __________________, ___, by and between 
+__________________, known as the “Healthcare Facility”, and __________________, known as the “Employee”, and known collectively as the “Parties”, set forth the terms and conditions under which information created or received by or on behalf of this Healthcare Facility (known collectively referred to as protected health information, or “PHI”) may be used or disclosed under State law and the Health Insurance Portability and Accountability Act of 1996 and updated through HIPAA Omnibus Rule of 2013 and will also uphold regulations enacted there under (hereafter “HIPAA”). 
+
+THEREFORE, in consideration of the premises and the covenants and agreements contained herein, the Parties hereto, intending to be legally bound hereby, covenant and agree as follows: 
+
+1. Confidential Information. The Parties acknowledge that meaningful employment may or will necessitate disclosure of Confidential Information by this Healthcare Facility to the Employee and use of Confidential Information by the Employee. The term “Confidential Information” includes, but is not limited to, PHI, any information about patients or other employees, any computer log-on codes or passwords, any patient records or billing information, any patient lists, any financial information about this Healthcare Facility or its patients that is not public, any intellectual property rights of Practice, any proprietary information of Practice and any information that concerns this Healthcare Facility’s contractual relationships, relates to this Healthcare Facility’s competitive advantages, or is otherwise designated as confidential by this Healthcare Facility. 
+
+2. Disclosure. Disclosure and use of Confidential Information includes oral communications as well as display or distribution of tangible physical documentation, in whole or in part, from any source or in any format (e.g., paper, digital, electronic, internet, social networks, magnetic or optical media, film, etc.). The Parties have entered into this Agreement to induce use and disclosure of Confidential Information and are relying on the covenants contained herein in making any such use or disclosure. This Healthcare Facility, not the Employee, is the records owner under state law and the Employee has no right or ownership interest in any Confidential Information. 
+
+3. Applicable Law. Confidential Information will not be used or disclosed by the Employee in violation of applicable law, including but not limited to HIPAA Federal and State records owner statute; this Agreement; the Practice’s Notice of Privacy Practices, as amended; or other limitations as put in place by Practice from time to time. The intent of this Agreement is to ensure that the Employee will use and access only the minimum amount of Confidential Information necessary to perform the Employee’s duties and will not disclose Confidential Information outside this Healthcare Facility unless expressly authorized in writing to do so by this Healthcare Facility. All Confidential Information received (or which may be received in the future) by Employee will be held and treated by him or her as confidential and will not be disclosed in any manner whatsoever, in whole or in part, except as authorized by this Healthcare Facility and will not be used other than in connection with the employment relationship. 
+
+4. Log-on Code and Password. The Employee understands that he or she will be assigned a log-on code or password by Practice, which may be changed as this Healthcare Facility, in its sole discretion, sees fit. The Employee will not change the log-on code or password without this Healthcare Facility’s permission. Nor will the Employee leave Confidential Information unattended (e.g., so that it remains visible on computer screens after the Employee’s use). The Employee agrees that his or her log-on code or password is equivalent to a legally-binding signature and will not be disclosed to or used by anyone other than the Employee. Nor will the Employee use or even attempt to learn another person’s log-on code or password. The Employee immediately will notify this Healthcare Facility’s HIPAA Privacy Officer upon suspecting that his or her log-on code or password no longer is confidential. The Employee agrees that all computer systems are the exclusive property of Practice and will not be used by the Employee for any purpose unrelated to his or her employment. The Employee acknowledges that he or she has no right of privacy when using this Healthcare Facility’s computer systems and that his or her computer use periodically will be monitored by this Healthcare Facility to ensure compliance with this Agreement and applicable law. 
+
+5. Returning Confidential Information. Immediately upon request by this Healthcare Facility, the Employee will return all Confidential Information to this Healthcare Facility and will not retain any copies of any Confidential Information, except as otherwise expressly permitted in writing signed by this Healthcare Facility. All Confidential Information, including copies thereof, will remain and be the exclusive property of this Healthcare Facility, unless otherwise required by applicable law. The Employee specifically agrees that he or she will not, and will not allow anyone working on their behalf or affiliated with the Employee in any way, use any or all of the Confidential Information for any purpose other than as expressly allowed by this Agreement. The Employee understands that violating the terms of this Agreement may, in this Healthcare Facility’s sole discretion, result in disciplinary action including termination of employment and/or legal action to prevent or recover damages for breach. Breach reporting is imperative. 
+
+6. Breach. The Parties agree that any breach of any of the covenants or agreements set forth herein by the Employee will result in irreparable injury to this Healthcare Facility for which money damages are inadequate; therefore, in the event of a breach or an anticipatory breach, Practice will be entitled (in addition to any other rights and remedies which it may have at law or in equity, including monetary damages) to have an injunction without bond issued enjoining and restraining the Employee and/or any other person involved from breaching this Agreement. 
+
+7. Binding Arrangement. This Agreement shall be binding upon and endure to the benefit of all Parties hereto and to each of their successors, assigns, officers, agents, employees, shareholders and directors. This Agreement commences on the date set forth above and the terms of this Agreement shall survive any termination, cancellation, expiration or other conclusion of this Agreement unless the Parties otherwise expressly agree in writing. 
+
+8. Governing Law. The Parties agree that the interpretation, legal effect and enforcement of this Agreement shall be governed by the laws in the State of _______________and by execution hereof, each party agrees to the jurisdiction of the courts of the State. The Parties agree that any suit arising out of or in relation to this Agreement shall be brought in the county where this Healthcare Facility’s principal place of business is located. 
+
+9. Severability. If any provision under this Agreement shall be held invalid or unenforceable for any reason, the remaining provisions and statements shall continue to be valid and enforceable.
+
+IN WITNESS WHEREOF, and intending to be legally bound, the Parties hereto have executed this Agreement on the date first above written, when signing below and after training on HIPAA Law with full understanding this agreement shall stand. 
+EMPLOYEE DOCUMENTATION OF HIPAA PRIVACY TRAINING
+
+
+The Health Insurance Portability Act of 1996 (HIPAA) requires our privacy officer to train employees on our health information privacy policies and procedures to the HIPAA Omnibus Standards of 2013 which also includes HI-TECH and Protected Health Information (PHI), Electronic Protected Health Information (ePHI), and Electronic Health Records (EHR). All employees with treatment, payment or healthcare operations responsibilities, which allow access to protected health information, are trained with updates periodically as State and Federal mandates require. HIPAA also requires that we keep this documentation (that the training was completed) for six years after the training. 
+
+I, the undersigned, do hereby certify that I have received, read, understood and agree to abide by this Healthcare Facilities HIPAA Policies and Operating Procedures. 
+
+
+
+Employee’s Signature ___________________________ Date _______________
+
+
+Print Name ___________________________
+
+<|endoftext|>
+<|startoftext|>
+
+INDEPENDENT CONTRACTOR NON-DISCLOSURE AGREEMENT
+
+
+
+BETWEEN
+
+___________________________________
+(“Client”)
+
+___________________________________
+(Mailing Address)
+
+AND
+
+___________________________________
+(“Independent Contractor”)
+
+___________________________________
+(Mailing Address)
+
+
+
+Effective Date of Agreement: _________________
+
+
+THIS CONFIDENTIALITY AND NON-DISCLOSURE AGREEMENT (this “Agreement”) is made and entered into as of the Effective Date of Agreement set forth above by and between Client and Independent Contractor.
+
+WITNESSETH:
+
+WHEREAS, the parties hereto desire to have discussions related to, and may enter into, one or more business transactions (the “Subject Matter”);
+
+WHEREAS, it is contemplated that such discussions and any business transactions entered into in connection therewith will require the disclosure by Client to Independent Contractor of Confidential Information (as hereinafter defined);
+
+WHEREAS, both parties recognize the value of the Confidential Information and that it is in their mutual best interests to maintain the confidential, proprietary and secret nature of the Confidential Information.
+
+NOW, THEREFORE, for and in consideration of the above premises, and in further consideration of the mutual covenants and promises contained herein and other good and valuable consideration, the receipt, adequacy and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+
+1. CONFIDENTIAL INFORMATION. Confidential Information shall include, but not be limited to,
+documents, records, information and data (whether verbal, electronic or written), drawings, models, apparatus, sketches, designs, schedules, product plans, marketing plans, technical procedures, manufacturing processes, analyses, compilations, studies, software, prototypes, samples, formulas, methodologies, formulations, patent applications, know-how, experimental results, specifications and other business information, relating to Client’s business, assets, operations or contracts, furnished to Independent Contractor and/or Independent Contractor’s affiliates, employees, officers, owners, agents, consultants or representatives, in the course of their work contemplated in this Agreement, regardless of whether such Confidential Information has been expressly designated as confidential or proprietary. Confidential Information also includes any and all analyses, compilations, work product, studies, and other materials prepared by or in the possession or control of the Independent Contractor, which contain, include, refer to or otherwise reflect or are generated from any Confidential Information. Confidential Information may be provided in written, oral, electronic or other form. 
+
+2. FORM OF DISCLOSURE. Confidential Information may be oral, visual, or by demonstration, or in some other form not permanently recorded, and shall be considered Confidential Information regardless of whether such Confidential Information has been expressly designated as confidential or proprietary.
+
+3. PERIOD OF CONFIDENTIALITY AND NON-USE. Independent Contractor (including its affiliates, employees, agents and consultants) shall maintain in strict confidence for a period of _______________ from the Effective Date and not disclose any Confidential Information it receives from Client to any third party or use the Confidential Information for its own or any other party’s benefit, except in furtherance of its obligations to Client pursuant to any business transaction it may enter into with Client. Independent Contractor shall use, as a minimum, the same degree of care to avoid disclosure or use of the Confidential Information as it employs with respect to its own confidential, proprietary and secret information of like importance, but in any case, using no less than a reasonable degree of care. Independent Contractor shall limit access to all Confidential Information to only those of Independent Contractor’s personnel, agents and representatives who “need to know” such information for carrying out Independent Contractor’s obligations to Client pursuant to any business transaction it may enter into with Client and the Confidential Information will be used only for carrying out Independent Contractor’s obligations to Client pursuant to any business transaction it may enter into with Client. Independent Contractor shall ensure that its affiliates, employees, officers, directors, owners, agents, consultants, and representatives who are given access to the Confidential Information by or on behalf of Independent Contractor shall be bound by and shall comply with the terms of this Agreement.
+
+4. EXCLUSIONS. Information shall not be deemed Confidential Information, and Independent Contractor shall have no obligation of confidentiality or restriction against use with respect to any information which:
+4.1. was known, in the possession of and documented by Independent Contractor through no wrongful act of the Independent Contractor prior to Client’s disclosure of such information; or
+
+4.2. is or becomes publicly known through no wrongful act of Independent Contractor and/or through no breach of any obligation to Client; or
+
+4.3. is rightfully received from a third party who is not subject to restrictions on the use and disclosure of such information in favor of Client; or
+
+4.4. is approved for release by written authorization from Client; provided that, unless notice of said prior knowledge and possession or receipt from a third party is given to Client within thirty (30) days of receipt of the information from Client or from a third party, respectively, it shall be conclusively presumed that the said information was not previously in the Independent Contractor ‘s knowledge and possession or received from a third party.
+
+5. DISCLOSURES REQUIRED BY LAW. In the event Independent Contractor is requested or required by a government or court order, or similar process, to disclose any Confidential Information supplied to it by Client, Independent Contractor shall provide Client with prompt notice of such request so that Client may seek an appropriate protective order and/or waive Independent Contractor’s compliance with the provisions of this Agreement.
+
+6. INDEMNIFICATION. Independent Contractor shall reimburse, indemnify and hold harmless Client and its affiliates, owners, employees, officers, directors, agents and representatives from any damage, loss, penalty, cost or expense incurred by Client as a result of or in connection with the use or disclosure of the Confidential Information contrary to the terms of this Agreement by Independent Contractor or its affiliates, employees, directors, officers, owners, consultants, agents or representatives or any others to whom such Confidential Information has been disclosed by any such persons or entities. The term “affiliates” as used in this Agreement shall mean any persons, corporations, partnerships, limited liability companies, or other business entities which directly or indirectly control, are controlled by, or are in common control with such party to this Agreement. As used herein, the term “control” shall mean possession, directly or indirectly, of power to direct or cause the direction of management or policies (whether through
+ownership of securities, by contract or otherwise).
+
+7. NO PUBLIC COMMENT. Independent Contractor shall not directly or indirectly make any public comment, statement or communication with respect to, or otherwise disclose or permit the disclosure to any third party of any Confidential Information or of any matter relating to the Subject Matter or purpose or any transactions contemplated by the parties in connection therewith, without the prior written consent of Client.
+
+8. NOTICE OF UNAUTHORIZED USE OR DISCLOSURE. Independent Contractor shall notify Client immediately upon discovery of any unauthorized use or disclosure of Confidential Information or any other breach of this Agreement by Independent Contractor or any third party and will cooperate with Client in every reasonable way to help regain possession of the Confidential Information and prevent its further unauthorized use or disclosure.
+
+9. OWNERSHIP AND RETURN OF CONFIDENTIAL INFORMATION. All Confidential Information disclosed to Independent Contractor shall be and remain the property of Client. Upon Client’s written request, Independent Contractor shall promptly return all Confidential Information (including all originals, copies, reproductions and summaries of such Confidential Information), or certify its destruction in writing, and keep the same confidential and secret in accordance with this Agreement.
+
+10. NO LICENSE. Nothing contained in this Agreement shall be construed as granting or conferring to Independent Contractor any rights or license or otherwise, either expressly or by implication, in or to any Confidential Information disclosed by Client to Independent Contractor as a result of this Agreement, including, without limitation, rights or license under any present or future patent, patent application, copyright, trademark, service mark, trade secret or other proprietary information owned, licensed or controlled by Client.
+
+11. SURVIVAL. Independent Contractor’s obligations of non-disclosure pursuant to the terms of this Agreement shall survive until all Confidential Information has been returned to Client or the destruction thereof has been certified to Client in writing.
+
+12. RELATIONSHIP. This Agreement shall not be construed as a joint venture, pooling arrangement, partnership, teaming effort or agency arrangement but each party hereto shall be considered as an independent contractor, in accordance with Title 17, United States Code, Sections 101 and 201(b), and shall be responsible for its own expenses and financial obligations incurred in the performance of this Agreement. Furthermore, this Agreement does not express any ownership by the Independent Contractor in the Confidential Information or the final service or product that is created after the use of said information. All ownership interests, if any, are to be stated in a separate agreement.
+
+13. NO WAIVER. Neither party waives any rights in invention or development lawfully possessed by it at the time of signing this Agreement. In addition, this Agreement does not imply any waiver of any rights or action under the patent, trademark, copyright, trade secret, unfair competition, fair trade or related laws. Failure to enforce any provision of this Agreement shall not constitute a waiver of any term hereof.
+
+14. BINDING AGREEMENT. This Agreement shall be binding upon Independent Contractor and its subsidiaries, successors, assigns, legal representatives, and all corporations controlling Independent Contractor or controlled by Independent Contractor and shall inure to the benefit of Client and its subsidiaries, successors, assigns, legal representatives, and all corporations controlling Client or controlled by Client.
+
+15. INJUNCTIVE RELIEF. Independent Contractor understands and agrees that any use or dissemination of Confidential Information in violation of this Agreement will cause Client irreparable harm, and that monetary damages may not be a sufficient remedy for unauthorized use or disclosure of Confidential Information, and that Client may be left with no adequate remedy at law; therefore, Client shall be entitled, without waiving any other rights or remedies, to such injunctive or equitable relief as may be deemed proper by a court of competent jurisdiction. Such remedies shall not be deemed to be the exclusive remedy for any breach of this Agreement but shall be in addition to all other remedies available at law or in equity.
+
+16. PREVAILING PARTY. If either party employs attorneys to enforce any rights arising out of or relating to this Agreement, the prevailing party shall be entitled to recover reasonable attorneys' fees and expenses.
+
+17. GOVERNING LAW. This Agreement shall be governed by and construed in accordance with the laws of the State of ___________________ without regard to principles of conflict or choice of laws, and Independent Contractor consents to venue and jurisdiction in and by the state and federal courts in the jurisdiction of the Client.
+
+18. ASSIGNMENT. This Agreement may not be assigned by Independent Contractor without the prior written consent of Client.
+
+19. ENTIRE AGREEMENT. This Agreement contains the entire understanding between the parties relative to the protection of Confidential Information and supersedes all prior and collateral communications, reports and understanding between the parties in respect thereto. No change, modification, alteration or addition to any provision shall be binding unless it is in writing and signed by an authorized representative of both parties.
+
+20. SEVERABILITY. If a court of competent jurisdiction makes a final determination that any provision of this Agreement (or any portion thereof) is invalid, illegal or unenforceable for any reason whatsoever, and all rights to appeal the determination have been exhausted or the period of time during which any appeal of the determination may be perfected has been exhausted, (i) the validity, legality and enforceability of the remaining provisions of this Agreement shall not in any way be affected or impaired thereby; and (ii) to the fullest extent possible, the provisions of this Agreement shall be construed so as to give effect to the intent manifested by the provisions held invalid, illegal or unenforceable.
+
+21. HEADINGS. The headings in this Agreement are for reference purposes only and shall not limit or otherwise affect the meaning of the provisions.
+
+22. COUNTERPARTS. This Agreement may be executed in one or more counterparts including signing a facsimile copy. Each counterpart shall be deemed an original and all counterparts together shall constitute one and the same instrument.
+
+IN WITNESS WHEREOF, the parties hereto have caused their duly authorized representatives to execute this Agreement as of the date first written above.
+
+
+
+INDEPENDENT CONTRACTOR: 
+
+
+Independent Contractor’s Signature ___________________________   Date: ___________
+
+Print Name: ___________________________
+
+Company: ___________________________
+
+Title: ___________________________
+
+
+
+CLIENT: 
+
+
+Client’s Signature ___________________________   Date: ___________
+
+Print Name: ___________________________
+
+Company: ___________________________
+
+Title: ___________________________
+
+<|endoftext|>
+<|startoftext|>
+
+INTERNSHIP CONFIDENTIALITY AGREEMENT
+
+
+This Internship Confidentiality Agreement, known as the "Agreement", is between ______________________________, hereinafter known as the "Intern", and ______________________________, hereinafter known as the "Sponsor". Collectively, the Intern and Sponsor shall be known as the “Parties”, agree as follows:
+
+1. KNOWLEDGE AND EXPERIENCE. The Sponsor shall be recognized as the individual or entity that provides a position to the Intern in order to obtain knowledge and experience in an industry that will merit justification of value in accordance with local and federal laws, hereinafter known as the "Internship Program". Intern agrees to serve unpaid for the Internship Program and to comply with any and all required policies of the Sponsor and its Internship Program. The Intern shall not possess the authorization to represent themselves as an employee of the Sponsor at any time.
+
+2. CONFIDENTIAL INFORMATION. Confidential Information shall include, but not be limited to, documents, records, information and data (whether verbal, electronic or written), drawings, models, apparatus, sketches, designs, schedules, product plans, marketing plans, technical procedures, manufacturing processes, analyses, compilations, studies, software, prototypes, samples, formulas, methodologies, formulations, patent applications, know-how, experimental results, specifications, and other business information relating to Sponsor’s business, assets, operations or contracts, furnished to Intern and/or Intern’s affiliates, officers, owners, agents, consultants or representatives, in the course of their efforts, regardless of whether such Confidential Information has been expressly designated as confidential or proprietary. Confidential Information also includes any and all analyses, compilations, products, studies, and other data or material prepared by or in the possession or control of the Intern which contain, include, refer to or otherwise reflect or are generated from any Confidential Information. Confidential Information may be provided in written, oral, electronic, or other form. Intern acknowledges that no representation or warranty, expressed or implied, has been or is made by or on behalf of Sponsor as to the accuracy or completeness of any of the Confidential information furnished to the Intern.
+
+3. FORM OF DISCLOSURE. Confidential Information may be oral, visual, or by demonstration or in some other form not permanently recorded and shall be considered Confidential Information regardless of whether such Confidential Information has been expressly designated as confidential or proprietary.
+
+4. PERIOD OF CONFIDENTIALITY AND NON-USE. Intern shall maintain in strict confidence for a period of _____________________ from the Effective Date and not disclose any Confidential Information it receives from Sponsor to any third party or use the Confidential Information for its own or any other party's benefit, except in furtherance of its obligations to Sponsor pursuant to any business transaction it may enter into with Sponsor. Intern shall use, as a minimum, the same degree of care to avoid disclosure or use of the Confidential Information as it employs with respect to its own confidential, proprietary and secret information of like importance, but in
+any case using no less than a reasonable degree of care. Intern shall limit access to all Confidential Information to only those of Intern’s personnel, agents and representatives who “need to know” such information for carrying out Intern’s obligations to Sponsor pursuant to any business transaction it may enter into with Sponsor, and the Confidential Information will be used only for carrying out Intern’s obligations to Sponsor pursuant to any business transaction it may enter into with Sponsor. Intern shall ensure that anyone who is given access to the Confidential Information by or on behalf of Intern shall be bound by and shall comply with the terms of this Agreement.
+
+5. EXCLUSIONS. Information shall not be deemed Confidential Information, and Intern shall have no obligation of confidentiality or restriction against use with respect to any information which:
+
+5.1. was known, in the possession of or documented by Intern through no wrongful act and prior to Sponsor’s disclosure of such information to Intern; 
+
+5.2. becomes publicly known through no wrongful act of Intern and/or through no breach of any obligation to Sponsor; 
+
+5.3. is rightfully received from a third party who is not subject to restrictions regarding the use and disclosure of such information in favor of Sponsor; or
+
+5.4. is approved for release by written authorization from Sponsor; provided that, unless notice of said prior knowledge and possession or receipt from a third party is given to Sponsor within thirty (30) days of receipt of the information from Sponsor or from a third party, respectively, it shall be conclusively presumed that the said information was not previously in the Intern’s knowledge and possession or received from a third party.
+
+6. DISCLOSURES REQUIRED BY LAW. In the event Intern is requested or required by a government or court order, or similar process, to disclose any Confidential Information supplied to it by Sponsor, Intern shall provide Sponsor with prompt notice of such request so that Sponsor may seek an appropriate protective order and/or waive Intern’s compliance with the provisions of this Agreement.
+
+7. INDEMNIFICATION. Intern shall reimburse, indemnify and hold harmless Sponsor and its affiliates, owners, employees, officers, directors, agents and representatives from any damage, loss, penalty, cost or expense incurred by Sponsor as a result of or in connection with the use or disclosure of the Confidential Information contrary to the terms of this Agreement by Intern or its affiliates, employees, directors, officers, owners, consultants, agents or representatives or any others to whom such Confidential Information has been disclosed by any such persons or entities. The term "affiliates" as used in this Agreement shall mean any persons, corporations, partnerships, limited liability companies, or other business entities, which directly or indirectly control, are controlled by, or are in common control with such party to this Agreement. As used herein, the term "control" shall mean possession, directly or indirectly, of power to direct or cause the direction of management or policies (whether through
+ownership of securities, by contract or otherwise).
+
+8. NO PUBLIC COMMENT. Intern shall not directly or indirectly make any public comment, statement or communication with respect to, or otherwise disclose or permit the disclosure to any third party of any Confidential Information or of any matter relating to the Subject Matter or purpose or any transactions contemplated by the parties in connection therewith, without the prior written consent of Sponsor.
+
+9. NOTICE OF UNAUTHORIZED USE OR DISCLOSURE. Intern shall notify Sponsor immediately upon discovery of any unauthorized use or disclosure of Confidential Information or any other breach of this Agreement by Intern or any third party, and will cooperate with Sponsor in every reasonable way to help regain possession of the Confidential Information and prevent its further unauthorized use or disclosure.
+
+10. OWNERSHIP AND RETURN OF CONFIDENTIAL INFORMATION. All Confidential Information disclosed to Intern shall be and remain the property of Sponsor. Upon Sponsor’s written request, Intern shall promptly return all Confidential Information (including all originals, copies, reproductions, and summaries of such Confidential Information), or certify its destruction in writing, and keep the same confidential and secret in accordance with this Agreement.
+
+11. NO LICENSE. Nothing contained in this Agreement shall be construed as granting or conferring to Intern any rights or license or otherwise, either expressly or by implication, in or to any Confidential Information disclosed by Sponsor to Intern as a result of this Agreement, including, without limitation, rights or license under any present or future patent, patent application, copyright, trademark, service mark, trade secret or other proprietary information owned, licensed or controlled by Sponsor.
+
+12. SURVIVAL. Intern’s obligations of non-disclosure pursuant to the terms of this Agreement shall survive until all Confidential Information has been returned to Sponsor or the destruction thereof has been certified to Sponsor in writing.
+
+13. RELATIONSHIP. This Agreement shall not be construed as a joint venture, pooling arrangement, partnership, teaming effort or agency arrangement but each party hereto shall be considered as an independent contractor responsible for its own expenses and financial obligations incurred in the performance of this Agreement.
+
+14. NO WAIVER. Neither party waives any rights in invention or development lawfully possessed by it at the time of signing this Agreement. In addition, this Agreement does not imply any waiver of any rights or action under the patent, trademark, copyright, trade secret, unfair competition, fair trade or related laws. Failure to enforce any provision of this Agreement shall not constitute a waiver of any term hereof.
+
+15. BINDING AGREEMENT. This Agreement shall be binding upon Intern and its subsidiaries, successors, assigns, legal representatives, and all corporations controlling the Intern or controlled by the Intern and shall inure to the benefit of Sponsor and its subsidiaries, successors, assigns, legal representatives, and all corporations controlling Sponsor or controlled by Sponsor.
+
+16. INJUNCTIVE RELIEF. Intern understands and agrees that any use or dissemination of Confidential Information in violation of this Agreement will cause Sponsor irreparable harm, and that monetary damages may not be a sufficient remedy for unauthorized use or disclosure of Confidential Information, and that Sponsor may be left with no adequate remedy at law; therefore, Sponsor shall be entitled, without waiving any other rights or remedies, to such injunctive or equitable relief as may be deemed proper by a court of competent jurisdiction. Such remedies shall not be deemed to be the exclusive remedy for any breach of this Agreement but shall be in addition to all other remedies available at law or in equity.
+
+17. PREVAILING PARTY. If either party employs attorneys to enforce any rights arising out of or relating to this Agreement, the prevailing party shall be entitled to recover reasonable attorneys' fees and expenses.
+
+18. GOVERNING LAW. This Agreement shall be governed by and construed in accordance with the laws of the State of ___________________ without regard to principles of conflict or choice of laws, and Intern consents to venue and jurisdiction in and by the state and federal courts in the jurisdiction of the Sponsor.
+
+19. ASSIGNMENT. This Agreement may not be assigned by Intern without the prior written consent of Sponsor.
+
+20. ENTIRE AGREEMENT. This Agreement contains the entire understanding between the parties relative to the protection of Confidential Information and supersedes all prior and collateral communications, reports, and understanding between the parties in respect thereto. No change, modification, alteration or addition to any provision shall be binding unless it is in writing and signed by an authorized representative of both parties.
+
+21. SEVERABILITY. If a court of competent jurisdiction makes a final determination that any provision of this Agreement (or any portion thereof) is invalid, illegal or unenforceable for any reason whatsoever, and all rights to appeal the determination have been exhausted or the period of time during which any appeal of the determination may be perfected has been exhausted, (i) the validity, legality and enforceability of the remaining provisions of this Agreement shall not in any way be affected or impaired thereby; and (ii) to the fullest extent possible, the provisions of this Agreement shall be construed so as to give effect to the intent manifested by the provisions held invalid, illegal or unenforceable.
+
+22. HEADINGS. The headings in this Agreement are for reference purposes only and shall not limit or otherwise affect the meaning of the provisions.
+
+23. COUNTERPARTS. This Agreement may be executed in one or more counterparts including signing a facsimile copy. Each counterpart shall be deemed an original and all counterparts together shall constitute one and the same instrument.
+
+IN WITNESS WHEREOF, I, the Intern, have read the above Agreement and agree to its terms. 
+
+
+
+Intern’s Signature __________________________ Date _________________
+
+
+Print Name __________________________
+
+<|endoftext|>
+<|startoftext|>
+
+LANDLORD-TENANT NON-DISCLOSURE AGREEMENT
+(CONFIDENTIALITY)
+
+
+1. The Parties. This Commercial Real Estate Non-Disclosure Agreement, hereinafter known as the “Agreement”, made this ____ day of _____________________, ___ between:
+
+Potential Tenant: _____________________, hereinafter known as the “Potential Tenant”.
+
+Landlord: _____________________, hereinafter known as the “Landlord”.
+
+Agent (if any): _____________________, hereinafter known as the “Agent”.
+
+Collectively, the above-named persons or entities shall be known as the “Parties”.
+
+2. The Property. In connection with the Potential Tenant’s consideration of a possible lease of the Landlord’s real estate located at _____________________, City of _____________________, State of _____________________, hereinafter known as the “Property”, the Parties agree to the following terms and conditions:
+
+3. Genuine Interest. The Potential Tenant is genuinely interested in leasing the Property from the Landlord.
+
+4. Permitted Use. The Potential Tenant will use the confidential information solely for purposes of evaluating the Property.
+
+5. Confidential Information. The Potential Tenant acknowledges that all information and materials furnished from the Landlord or Agent concerning the Property is confidential and may not be used for any purpose other than the Potential Tenant’s evaluation for a possible lease. Access to any information furnished by the Agent or Landlord will be limited to attorneys, accountants, financial representatives, and business advisors directly involved with the Property.
+
+6. Nondisclosure. Landlord, Potential Tenant and Agent all agree not to disclose to any other person or business entity the fact that any discussion or negotiations are taking place with respect to the Property, including any business located therein, or the actual or potential terms, conditions or facts involved in any such discussions or negotiations.
+
+7. Discretion. Potential Tenant agrees not to contact the Property or Business employees, suppliers, or customers except through the Agent or Landlord. Potential Tenant further agrees not to circumvent or interfere with the Agent’s listing agreement with the Landlord in any way.
+
+8. Binding Effect. This Agreement shall be governed and construed in accordance with the laws of the State of _____________________ and shall survive the closing of any Agreement between Potential Tenant and Landlord for a period of _____________________ from the date of said closing or if the information becomes publicly available, whichever occurs first. The word “Closing” shall include notification of non-interest on the part of Potential Tenant as well any successful transaction between Potential Tenant and Landlord.  
+
+9. Cost of Enforcement. In the event either party commences a judicial action to enforce the provision of this Agreement, the prevailing party in such action shall be entitled to recover, in addition to such other amounts as may be permitted by law, all costs and expenses incurred by it in the prosecution of defense of such action, including reasonable attorneys’ fees.
+
+10. Warranty. If the Agent is providing the confidential information, the Agent does not guarantee, warrant, either expressed or implied, any information and/or figures supplied by the Landlord. Potential Tenant should rely on their own verification of this information as a part of their due diligence.
+
+11. Reproduction Prohibited. No copies shall be made or retained of any written information supplied to Potential Tenant by the Landlord. At the conclusion of any discussion, negotiation or upon demand by the Landlord, all information, including notes, photographs, financial statements, or any other details released to the Potential Tenant, shall be returned to the Landlord or Agent. Any information shall not be disclosed to any employee or consultant unless they agree to execute and be bound by this agreement.
+
+
+
+Potential Tenant’s Signature _______________________________ Date _______________
+
+
+Print Name _____________________
+
+<|endoftext|>
+<|startoftext|>
+
+MUTUAL NON-DISCLOSURE AGREEMENT
+
+
+This Agreement is entered into as of the ___ day of _____________________, ___, the “Effective Date”, by and between _____________________, hereinafter known as "Party A", and _____________________, hereinafter known as "Party B".
+	WHEREAS Party A and the Party B, hereinafter known as the “Parties”, have an interest in participating in discussions wherein either Party may share information with the other that the disclosing Party considers to be proprietary and confidential to itself (“Confidential Information”); and
+	WHEREAS the Parties agree that Confidential Information of a Party may include, but not be limited to, that Party’s: (1) business plans, methods, and practices; (2) personnel, customers, and suppliers; (3) inventions, processes, methods, products, patent applications, and other proprietary rights; or (4) specifications, drawings, sketches, models, samples, tools, computer programs, technical information, or other related information; 
+	NOW, THEREFORE, the Parties agree as follows:
+1.	Either Party may disclose Confidential Information to the other Party in confidence provided that the disclosing Party identifies such information as proprietary and confidential either by marking it, in the case of written materials, or, in the case of information that is disclosed orally or written materials that are not marked, by notifying the other Party of the proprietary and confidential nature of the information, such notification to be done orally, by e-mail or written correspondence, or via other means of communication as might be appropriate.
+2.	When informed of the proprietary and confidential nature of Confidential Information that has been disclosed by the other Party, the receiving Party (“Recipient”) shall, for a period of _____________________ from the date of disclosure, refrain from disclosing such Confidential Information to any contractor or other third party without prior, written approval from the disclosing Party and shall protect such Confidential Information from inadvertent disclosure to a third party using the same care and diligence that the Recipient uses to protect its own proprietary and confidential information, but in no case less than reasonable care. The Recipient shall ensure that each of its employees, officers, directors, or agents who has access to Confidential Information disclosed under this Agreement is informed of its proprietary and confidential nature and is required to abide by the terms of this Agreement. The Recipient of Confidential Information disclosed under this Agreement shall promptly notify the disclosing Party of any disclosure of such Confidential Information in violation of this Agreement or of any subpoena or other legal process requiring production or disclosure of said Confidential Information.
+3.	All Confidential Information disclosed under this Agreement shall be and remain the property of the disclosing Party and nothing contained in this Agreement shall be construed as granting or conferring any rights to such Confidential Information on the other Party. The Recipient shall honor any request from the disclosing Party to promptly return or destroy all copies of Confidential Information disclosed under this Agreement and all notes related to such Confidential Information. The Parties agree that the disclosing Party will suffer irreparable injury if its Confidential Information is made public, released to a third party or otherwise disclosed in breach of this Agreement and that the disclosing Party shall be entitled to obtain injunctive relief against a threatened breach or continuation of any such breach and, in the event of such breach, an award of actual and exemplary damages from any court of competent jurisdiction.
+4.	The terms of this Agreement shall not be construed to limit either Party’s right to develop independently or acquire products without use of the other Party’s Confidential Information. The disclosing party acknowledges that the Recipient may currently or in the future be developing information internally, or receiving information from other parties, that is similar to the Confidential Information. Nothing in this Agreement will prohibit the Recipient from developing or having developed for it products, concepts, systems, or techniques that are similar to or compete with the products, concepts, systems, or techniques contemplated by or embodied in the Confidential Information provided that the Recipient does not violate any of its obligations under this Agreement in connection with such development.
+5.	Notwithstanding the above, the Parties agree that information shall not be deemed Confidential Information and the Recipient shall have no obligation to hold in confidence such information, where such information:
+(a)	Is already known to the Recipient, having been disclosed to the Recipient by a third party without such third party having an obligation of confidentiality to the disclosing Party; 
+(b)	Is or becomes publicly known through no wrongful act of the Recipient, its employees, officers, directors, or agents; 
+(c)	Is independently developed by the Recipient without reference to any Confidential Information disclosed hereunder; 
+(d)	Is approved for release (and only to the extent so approved) by the disclosing Party; or
+(e)	Is disclosed pursuant to the lawful requirement of a court or governmental agency or where required by operation of law.
+6.	Nothing in this Agreement shall be construed to constitute an agency, partnership, joint venture or other similar relationship between the Parties.
+7.	Neither Party will, without prior approval of the other Party, make any public announcement of or otherwise disclose the existence or the terms of this Agreement.
+8.	This Agreement contains the entire agreement between the Parties and in no way creates an obligation for either Party to disclose information to the other Party or to enter into any other agreement.
+9.	This Agreement shall remain in effect for a period of _____________________ from the Effective Date unless otherwise terminated by either Party giving notice to the other of its desire to terminate this Agreement. The requirement to protect Confidential Information disclosed under this Agreement shall survive termination of this Agreement.
+
+
+
+Party A’s Signature __________________________ Date _________________
+
+
+Print Name __________________________
+
+
+
+Party B’s Signature __________________________ Date _________________
+
+
+Print Name __________________________
+
+<|endoftext|>
+<|startoftext|>
+
+PATENT / INVENTION NON-DISCLOSURE AGREEMENT
+
+I. THE PARTIES. This Patent/Invention Non-Disclosure Agreement, hereinafter known as the “Agreement”, is created on this ____ day of ___________________, ____, between ___________________, hereinafter known as the “Disclosing Party”, and ___________________, hereinafter known as the “Receiving Party”.
+The Disclosing Party and Receiving Party wish to discuss and exchange certain items and information related to business programs, products, applications, systems, components, technologies, and business topics (the “Invention”) which the parties hereto consider highly confidential and proprietary.
+NOW THEREFORE, the parties hereto, intending to be legally bound in consideration of the mutual covenants and agreements set forth herein, hereby agree as follows:
+II. TERMS & DEFINITIONS.
+a.	“Invention” shall mean all information relating to business programs, products, applications, systems, components, technologies, and business topics.
+
+b.	“Confidential Information” shall mean all information provided by Disclosing Party with respect to the Invention regardless of whether it is written, oral, audio tapes, video tapes, computer discs, machines, prototypes, designs, specifications, articles of manufacture, drawings, human or machine-readable documents. Confidential Information shall also include all information related to the Invention provided by Disclosing Party to Receiving Party prior to the signing of this Agreement. Confidential Information shall not include any of the following:
+1.	such information in the public domain at the time of the disclosure, or subsequently comes within the public domain without fault of the Receiving Party;
+2.	such information which was in the possession of Receiving Party at the time of disclosure that may be demonstrated by business records of Receiving Party and was not acquired, directly or indirectly, from Disclosing Party; or
+3.	such information which Receiving Party acquired after the time of disclosure from a third party who did not require Receiving Party to hold the same in confidence and who did not acquire such technical information from Disclosing Party.
+
+c.	“Disclosing Party” shall mean the party disclosing information to the other relating to the Invention.
+
+d.	 “Receiving Party” shall mean the party receiving information from the other relating to the Invention.
+III. USE OF CONFIDENTIAL INFORMATION. The Receiving Party agrees to:
+a. receive and maintain the Confidential Information in confidence;
+b. examine the Confidential Information at its own expense;
+c. not reproduce the Confidential Information or any part thereof without the express written consent of Disclosing Party;
+d. not, directly or indirectly, make known, divulge, publish or communicate the Confidential Information to any person, firm, or corporation without the express written consent of Disclosing Party;
+e. limit the internal dissemination of the Confidential Information and the internal disclosure of the Confidential Information received from the Disclosing Party to those officers and employees, if any, of the Receiving Party who have a need to know and an obligation to protect it;
+f. not use or utilize the Confidential Information without the express written consent of Disclosing Party;
+g. not use the Confidential Information or any part thereof as a basis for the design or creation of any method, system, apparatus, or device similar to any method, system, apparatus, or device embodied in the Confidential Information unless expressly authorized in writing by Disclosing Party; and
+h. utilize the best efforts possible to protect and safeguard the Confidential Information from loss, theft, destruction, or the like.
+IV. RETURN OF CONFIDENTIAL INFORMATION. All information provided by the Disclosing Party shall remain the property of the Disclosing Party. Receiving Party agrees to return all Confidential Information to Disclosing Party within 5 days of written demand by Disclosing Party. When the Receiving Party has finished reviewing the information provided by the Disclosing Party and has made a decision as to whether or not to work with the Disclosing Party, Receiving Party shall return all information to the Disclosing Party without retaining any copies.
+V. ENFORCEMENT. The Receiving Party acknowledges and agrees that due to the unique and sensitive nature of the Confidential Information, any breach of this Agreement would cause irreparable harm for which damages and or equitable relief may be sought. The company shall be entitled to all remedies available at law. 
+VI. NON-ASSIGNABLE. This Agreement shall be non-assignable by the Receiving Party unless prior written consent of the Disclosing Party is received. If this Agreement is assigned or otherwise transferred, it shall be binding on all successors and assigns.
+VII. TIME-PERIOD. This Confidential Information that is shared may not be disclosed by the Receiving Party to any 3rd party unless the information has been made public or written permission has been given by the Disclosing Party.
+VIII. GOVERNING LAW. This Agreement and all questions relating to its validity, interpretation, performance and enforcement (including, without limitation, provisions concerning limitations of actions) shall be governed by and construed in accordance with the laws of the State of ___________________, notwithstanding any conflict-of-laws doctrines of such state or other jurisdiction to the contrary, and without the aid of any canon, custom or rule of law requiring construction against the draftsman.
+IX. NO LICENSE. Neither party does, by virtue of disclosure of the Confidential Information, grant, either expressly or by implication, estoppel or otherwise, any right or license to any patent, trade secret, invention, trademark, copyright, or other intellectual property right.
+X. BINDING NATURE. This Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective heirs, personal representatives, successors, and assigns.
+XI. SEVERABILITY. The provisions of this Agreement are independent of and separable from each other, and no provision shall be affected or rendered invalid or unenforceable by virtue of the fact that for any reason any other or others of them may be invalid or unenforceable in whole or in part.
+XII. ENTIRE AGREEMENT. This Agreement sets forth all covenants, promises, agreements, conditions and understandings between the parties and there are no covenants, promises, agreements or conditions, either oral or written, between them other than herein set forth. No subsequent alteration, amendment, change or addition to this Agreement shall be binding upon either party unless reduced in writing and signed by them.
+
+Disclosing Party’s Signature _______________________ Date _________________
+
+
+Print Name _______________________
+
+
+Receiving Party’s Signature _______________________ Date _________________
+
+
+Print Name _______________________
+
+<|endoftext|>
+<|startoftext|>
+
+PRODUCT DEVELOPMENT NON-DISCLOSURE AGREEMENT
+
+This Product Development Non-Disclosure Agreement, known as the “Agreement”, made this ___ day of ______________________, ___ is by and between __________________________, the “Releasor”, and __________________________, the “Recipient”, and collectively “the Parties”.
+WHEREAS, Releasor agrees to furnish certain confidential information relating to ideas, inventions, or products for the purposes of assistance in product development, patenting, licensing, and any other details about a product or service that is unique in nature to the Releasor. 
+I. Confidential Information. This Agreement shall govern the conditions of disclosure by Releasor to Recipient of certain Confidential Information. "Confidential Information", as used herein, means all engineering and business information (including prototypes, drawings, data, trade secrets and intellectual property) which:
+i. if tangible, is identified in writing as confidential at the time of its disclosure to the recipient; or
+
+ii. if intangible, is identified at the time of disclosure to the recipient as confidential and is later promptly confirmed in writing within one (1) month from the date of disclosure as being confidential.
+The term Confidential Information shall exclude information which: 
+i. is known or possessed by the Recipient at the time of its disclosure to the recipient;
+ii. is publicly known at the time of disclosure to the recipient;
+
+iii. is subsequently received by the Recipient from a third party without restriction on disclosure;
+
+iv. subsequently becomes publicly known without violation of this Agreement;
+
+v. is independently developed by the recipient without access to the Confidential Information; or
+
+vi. is disclosed by recipient pursuant to a requirement of a law, regulation, or legal process with regard to the Confidential Information, Recipient hereby agrees:
+
+a. to hold confidential or proprietary information or trade secrets ("confidential information") in trust and confidence and agrees that it shall be used only for the purpose of business product or idea development for Releasor and shall not be used for any other purpose, or disclosed to any third party;
+
+b. to safeguard and exercise reasonable precautions against disclosure of the Confidential Information to others;
+
+c. to not disclose Confidential Information to any employee, consultant, or third party unless they agree to execute and be bound by the terms of this Agreement; and
+
+d. that the secrecy obligations of Recipient with respect to the information shall continue for a period ending __________________________ from the date hereof.
+II. Governing Laws. The laws of __________________________ shall govern this Agreement and its validity.
+
+
+Releasor’s Signature ______________________________ Date ________________
+
+Print Name ______________________________ 
+
+
+Recipient’s Signature ______________________________ Date ________________
+
+Print Name ______________________________ 
+
+<|endoftext|>
+<|startoftext|>
+
+REAL ESTATE BUYER NON-DISCLOSURE AGREEMENT
+(CONFIDENTIALITY)
+
+
+1. The Parties. This Commercial Real Estate Non-Disclosure Agreement, hereinafter known as the “Agreement”, made this ____ day of _____________________, ___ between:
+
+Potential Buyer: _____________________, hereinafter known as the “Potential Buyer”.
+
+Landlord: _____________________, hereinafter known as the “Landlord”.
+
+Agent (if any): _____________________, hereinafter known as the “Agent”.
+
+Collectively, the above-named persons or entities shall be known as the “Parties”.
+
+2. The Property. In connection with the Potential Buyer’s consideration of a possible purchase of the Landlord’s real estate located at _____________________, City of _____________________, State of _____________________, hereinafter known as the “Property”, the Parties agree to the following terms and conditions:
+
+3. Genuine Interest. The Potential Buyer is genuinely interested in purchasing the Property from the Landlord.
+
+4. Permitted Use. The Potential Buyer will use the confidential information solely for purposes of evaluating the Property.
+
+5. Confidential Information. The Potential Buyer acknowledges that all information and materials furnished from the Landlord or Agent concerning the Property is confidential and may not be used for any purpose other than the Potential Buyer’s evaluation for a possible purchase. Access to any information furnished by the Agent or Landlord will be limited to attorneys, accountants, financial representatives, and business advisors directly involved with the Property.
+
+6. Nondisclosure. Landlord, Potential Buyer and Agent all agree not to disclose to any other person or business entity the fact that any discussion or negotiations are taking place with respect to the Property, including any business located therein, or the actual or potential terms, conditions or facts involved in any such discussions or negotiations.
+
+7. Discretion. Potential Buyer agrees not to contact the Property or Business employees, suppliers, or customers except through the Agent or Landlord. Potential Buyer further agrees not to circumvent or interfere with the Agent’s listing agreement with the Landlord in any way.
+
+8. Binding Effect. This Agreement shall be governed and construed in accordance with the laws of the State of _____________________ and shall survive the closing of any Agreement between Potential Buyer and Landlord for a period of _____________________ from the date of said closing or if the information becomes publicly available, whichever occurs first. The word “Closing” shall include notification of non-interest on the part of Potential Buyer as well any successful transaction between Potential Buyer and Landlord.  
+
+9. Cost of Enforcement. In the event either party commences a judicial action to enforce the provision of this Agreement, the prevailing party in such action shall be entitled to recover, in addition to such other amounts as may be permitted by law, all costs and expenses incurred by it in the prosecution of defense of such action, including reasonable attorneys’ fees.
+
+10. Warranty. If the Agent is providing the confidential information, the Agent does not guarantee, warrant, either expressed or implied, any information and/or figures supplied by the Landlord. Potential Buyer should rely on their own verification of this information as a part of their due diligence.
+
+11. Reproduction Prohibited. No copies shall be made or retained of any written information supplied to Potential Buyer by the Landlord. At the conclusion of any discussion, negotiation or upon demand by the Landlord, all information, including notes, photographs, financial statements, or any other details released to the Potential Buyer, shall be returned to the Landlord or Agent. Any information shall not be disclosed to any employee or consultant unless they agree to execute and be bound by this agreement.
+
+
+
+Potential Buyer’s Signature ________________________________ Date _______________
+
+
+Print Name _____________________
+
+<|endoftext|>
+<|startoftext|>
+
+SOFTWARE BETA TESTER NONDISCLOSURE AGREEMENT
+ 
+This is an agreement, effective __________________, ___, between __________________ (“Company”) and __________________ (“Tester”), in which Tester agrees to test software known as ____________________________________  (the “Software”) and keep Company aware of the test results.
+1. Company’s Obligations
+Company shall provide Tester with a copy of Software and any necessary documentation and instruct Tester on how to use it and what test data is desired by Company. 
+Upon satisfactory completion of the testing:
+[Choose one]
+Company shall furnish Tester with one free copy of the production version of Software, contingent upon Company’s decision to proceed with production of Software.
+Company shall _______________________________________________________________.
+2. Tester’s Obligations
+Tester shall test Software under normally expected operating conditions in Tester’s environment during the test period. Tester shall gather and report test data as agreed upon with Company. Tester shall allow Company access to Software during normal working hours for inspection, modifications, and maintenance.
+3. Software a Trade Secret
+The software is proprietary and a valuable trade secret of the Company. It is entrusted to Tester only for the purpose set forth in this Agreement. Tester shall maintain Software in the strictest confidence. Tester will not, without Company’s prior written consent:
+(a) disclose any information about Software, its design and performance specifications, its code, and the existence of the beta test and its results to anyone other than Tester’s employees who are performing the testing and who shall be subject to non-disclosure restrictions at least as protective as those set forth in this Agreement;
+(b) copy any portion of Software or documentation, except to the extent necessary to perform beta testing; or
+(c) reverse engineer, decompile or disassemble Software or any portion of it.
+4. Security Precautions
+Tester shall take reasonable security precautions to prevent Software from being seen by unauthorized individuals whether stored on Tester’s hard drive or on physical copies such as CD-ROMS, diskettes or other media. Tester shall lock all copies of Software and associated documentation in a desk or file cabinet when not in use.
+5. Term of Agreement
+The test period shall last from __________________, ___ until __________________, ___. This Agreement shall terminate at the end of the test period or when Company asks Tester to return Software, whichever occurs first. The restrictions and obligations contained in Clauses 4, 7, 8, 9 and 10 shall survive the expiration, termination or cancellation of this Agreement, and shall continue to bind Tester, its successors, heirs and assigns.
+6. Return of Software and Materials
+Upon the conclusion of the testing period or at Company’s request, Tester shall within 10 days return the original and all copies of Software and all related materials to Company and delete all portions of Software from computer memory.
+7. Disclaimer of Warranty
+Software is a test product and its accuracy and reliability are not guaranteed. Tester shall not rely exclusively on Software for any reason. Tester waives any and all claims Tester may have against Company arising out of the performance or nonperformance of Software.
+SOFTWARE IS PROVIDED AS IS, AND COMPANY DISCLAIMS ANY AND ALL REPRESENTATIONS OR WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, WITH RESPECT TO IT, INCLUDING ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+8. Limitation of Liability
+Company shall not be responsible for any loss or damage to Tester or any third parties caused by Software. COMPANY SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGE, WHETHER BASED ON CONTRACT OR TORT OR ANY OTHER LEGAL THEORY, ARISING OUT OF ANY USE OF SOFTWARE OR ANY PERFORMANCE OF THIS AGREEMENT.
+9. No Rights Granted
+This Agreement does not constitute a grant or an intention or commitment to grant any right, title or interest in Software or Company’s trade secrets to Tester. Tester may not sell or transfer any portion of Software to any third party or use Software in any manner to produce, market or support its own products. Tester shall not identify Software as coming from any source other than Company.
+10. No Assignments
+This Agreement is personal to Tester. Tester shall not assign or otherwise transfer any rights or obligations under this Agreement.
+11. General Provisions
+(a) Relationships: Nothing contained in this Agreement shall be deemed to constitute either party a partner, joint venturer or employee of the other party for any purpose.
+(b) Severability: If a court finds any provision of this Agreement invalid or unenforceable, the remainder of this Agreement shall be interpreted so as to best to effect the intent of the parties.
+(c) Integration: This Agreement expresses the complete understanding of the parties with respect to the subject matter and supersedes all prior proposals, agreements, representations, and understandings. This Agreement may not be amended except in a writing signed by both parties.
+(d) Waiver: The failure to exercise any right provided in this Agreement shall not be a waiver of prior or subsequent rights.
+(e) Attorney Fees and Expenses: In a dispute arising out of or related to this Agreement, the prevailing party shall have the right to collect from the other party its reasonable attorney fees and costs and necessary expenditures.
+(f) Governing Law: This Agreement shall be governed in accordance with the laws of the State of __________________.
+(g) Jurisdiction: The parties consent to the exclusive jurisdiction and venue of the federal and state courts located in [insert county and state in which parties agree to litigate] in any action arising out of or relating to this Agreement. The parties waive any other venue to which either party might be entitled by domicile or otherwise.
+Company
+
+Signature _________________________
+Print Name _________________________
+Title _________________________
+Date _________________________
+Tester
+
+Signature _________________________
+Print Name _________________________
+Date _________________________
+
+<endoftext>
+
+SOFTWARE DEVELOPMENT NON-DISCLOSURE AGREEMENT
+
+
+I. THE PARTIES. This Software Development Non-Disclosure Agreement, hereinafter known as the “Agreement”, is created on the ___ day of _________________________, ___ by and between _________________________, hereinafter known as the “1st Party”, and _________________________, hereinafter known as the “2nd Party”, and collectively known as the “Parties”.
+
+WHEREAS, this Agreement is created for the purpose of preventing the unauthorized disclosure of the confidential and proprietary information regarding the development of __________________________ [Name of Software] with its purpose of __________________________ [Purpose of Software], hereinafter known as the “Software”. The Parties agree as follows:
+
+II. TYPE OF AGREEMENT. Check One (1) 
+
+Mutual –  This Agreement shall be Mutual, whereas, the Parties shall be prohibited from disclosing confidential and proprietary information that is to be shared between one another in an effort to develop the Software.
+
+Unilateral – This Agreement shall be Unilateral, whereas, the 1st Party shall have sole ownership of the Software with the 2nd Party being prohibited from disclosing confidential and proprietary information that is to be released by the 1st Party in an effort to develop the Software.
+
+III. DEFINITION. For the purposes of this Agreement, the term “Confidential Information” shall include, but not be limited to, software products, software source code or any related codes in all formats, business plans, financial statements, customers or users, analytical data, documentation, and correspondences that have not otherwise been made publicly available. 
+
+However, Confidential Information does not include: 
+
+(a) information generally available to the public; 
+
+(b) widely used programming practices or algorithms; 
+
+(c) information rightfully in the possession of the Parties prior to signing this Agreement; and 
+
+(d) information independently developed without the use of any of the provided Confidential Information.
+
+IV. OBLIGATIONS. The obligations of the Parties shall be to hold and maintain the Confidential Information in the strictest of confidence at all times and to their agents, employees, representatives, affiliates, and any other individual or entity that is on a “need to know” basis. If any such Confidential Information shall reach a third (3rd) party or become public, all liability will be on the Party that is responsible. Neither Party shall, without the written approval of the other Party, publish, copy, or use the Confidential Information for their sole benefit. If requested, either Party shall be bound to return any and all materials to the Requesting Party within ____ days. 
+
+This Section shall not apply to the 1st Party if this Agreement is Unilateral as marked in Section II.
+
+V. TIME PERIOD. The bounded Party’s(ies’) duty to hold the Confidential Information in confidence shall remain in effect until such information no longer qualifies as a trade secret or written notice is given releasing such Party from this Agreement.
+
+VI. RELATIONSHIP. The Parties agree that there is no such statement in this Agreement that suggests any Party is an employee, partner, or that the Software is a joint venture. All ownership interests, if any, shall be stated in a separate agreement.
+
+VII. SEVERABILITY. If a court finds that any provision of this Agreement is invalid or unenforceable, the remainder of this Agreement shall be interpreted so as best to affect the intent of the Parties.
+
+VIII. INTEGRATION. This Agreement expresses the complete understanding of the Parties with respect to the subject matter and supersedes all prior proposals, agreements, representations, and understandings. This Agreement may not be amended except in writing with the acknowledgment of the Parties.
+
+IX. Enforcement. The Parties acknowledge and agree that due to the unique and sensitive nature of the Confidential Information, any breach of this Agreement would cause irreparable harm for which damages and or equitable relief may be sought. The harmed Party shall be entitled to all remedies available at law. 
+
+X. GOVERNING LAW. This Agreement shall be governed under the laws in the State of _________________________.
+
+
+
+1st Party’s Signature ______________________________ Date _________________
+
+
+Print Name ______________________________
+
+
+
+2nd Party’s Signature ______________________________ Date _________________
+
+
+Print Name ______________________________
+
+<|endoftext|>
+<|startoftext|>
+
+STUDENT NON-DISCLOSURE AGREEMENT
+
+	This Agreement is made and entered into by and between _______________________ ("Company") and _______________________ ("Student") for the purpose of receiving certain confidential information of Company to enable the Student to undertake the project described at the end of this Agreement ("Project").  
+
+	Company and Student hereby agree as follows:
+
+1.	"Confidential Information" means proprietary and confidential information of Company marked or identified as such in accordance with Section 2 below.
+
+2.	To be treated as Confidential Information, any information provided by Company to Student in tangible form shall be marked "Proprietary and Confidential" or similar markings. Information disclosed orally must be identified orally as confidential at the time of disclosure and summarized in writing within 30 days of disclosure.
+
+3.	No information will be Confidential Information that: (i) is already known to Student, or (ii) is or becomes publicly known through no wrongful act of Student, or (iii) is received by Student from a third party without similar restrictions and without breach of this Agreement.
+
+4.	Except as provided herein, Student will not disclose any Confidential Information to any other person.  Student will not use any Confidential Information other than in connection with the Project.  
+
+5.	Student may disclose Confidential Information (i) to other students who have executed non-disclosure agreements with Company, (ii) in response to the lawful request or requirement of a governmental agency or by requirement of law, and (iii) to the faculty member supervising the Project, provided that faculty member has signed a non-disclosure agreement with Company.
+
+6.	Company understands that to complete the requirements of the course in which he or she is enrolled, Student must give a substantive presentation concerning the Project to an audience that will not have signed non-disclosure agreements, and that such presentation will include information about the Company. Company will work with Student to prevent the inclusion of Confidential Information in the presentation and any written materials prepared by the Student.
+
+7.	All Confidential Information delivered by Company to Student will be and remain property of Company. All Confidential Information, and any copies thereof, will be promptly returned to Company or destroyed by Student upon Company's request.  
+
+8.	The obligations of Student under this Agreement shall terminate on _______________________.
+
+9.	This Agreement may not be modified except by written instrument signed on behalf of each party.  Either party may assign this Agreement to a parent corporation, to a wholly owned subsidiary or a successor of substantially all of the business or assets of the party. This Agreement embodies the entire agreement and understanding of the parties and terminates and supersedes all prior independent agreements and under takings between the parties. The provisions of this Agreement shall be construed in accordance with the laws of the state of _______________________.  All notices, requests or consents given in connection with this Agreement shall be given in writing and sent by first class mail, postage prepaid, telegram, teletype, telex, cable or email to the addresses listed at the end of this Agreement, unless either party notifies the other party of a different address.
+
+Description of Project:
+
+___________________________________________________________________________________________________
+
+Executed as of the date and year first above written:
+
+Student’s Signature ______________________________________________ Date _______________________
+
+Print Name ______________________________________________
+
+<|endoftext|>
+<|startoftext|>
+
+TRADE SECRET NON-DISCLOSURE AGREEMENT
+
+
+
+This Trade Secret Non-Disclosure Agreement, hereinafter known as this “Agreement”, is created on the ____ day of ___________________________, ___ by and between ___________________________, of ___________________________, City of ___________________________, State of ___________________________, hereinafter known as “Releasor”, and ___________________________, of ___________________________, City of ___________________________, State of ___________________________, hereinafter the “Recipient”, and collectively known as the “Parties”.
+
+WHEREAS, through this Agreement, the Releasor and the Recipient have entered into a relationship by which the Recipient may be exposed to certain Confidential Information of the Releasor, in which the Releasor has an interest in protecting.
+
+NOW, THEREFORE, in consideration of the mutual covenants and promises made by the Parties hereto, the Releasor and the Recipient covenant and agree as follows:
+
+I. TRADE SECRET. “Trade Secret” means all information possessed by or developed for the Releasor to which all of the following apply: (i) the information derives independent economic value from not being generally known and (ii) the Releasor takes reasonable precautions to prevent such information from being disclosed and released to the public.
+
+In addition, throughout the duration of this Agreement and the Recipient’s business relationship with the Releasor and any time after the termination of such relationship, the Recipient shall do what is reasonably necessary to prevent unauthorized disclosure of the Releasor’s Trade Secrets. Furthermore, after the termination of any such relationship, the Recipient shall not use or disclose the Releasor’s Trade Secrets as long as they remain Trade Secrets.
+
+II. CONFIDENTIAL INFORMATION. “Confidential Information” means information, to the extent it is not a Trade Secret although possessed by the Releasor and shared to the Recipient, including, but not limited to, business plans, strategies, existing or proposed, costs, technical developments, financial or business projections, investments, marketing plans, training information, materials, and any other information that holds proprietary value to the Releasor.
+
+III. NON-DISCLOSURE. Except as required to further the relationship between the Releasor and the Recipient or as expressly authorized in writing on behalf of the Releasor, the Recipient shall not disclose, directly or indirectly, any Confidential Information during the per-iod of their relationship with the Releasor or any time after the termination of such relationship.
+
+IV. EXCEPTIONS. The provisions of this Agreement will not be deemed to prohibit any disclosure that is required by law or court order, however, the Recipient agrees to provide the Releasor with reasonable prior notice and an opportunity to contest or minimize such disclosure.
+
+In addition, the Recipient may disclose Confidential Information or Trade Secrets at any time conditional upon a written release from this Agreement by the Releasor.
+
+V. RETURN OF INFORMATION. Immediately upon termination of the relationship between the Releasor and the Recipient, the Recipient shall return to the Releasor any documents related to the Confidential Information or Trade Secrets which are in the Recipient’s possession.
+
+VI. ACKNOWLEDGMENTS. The Recipient acknowledges that: (i) this Agreement has been specifically bargained between the parties and reviewed by the Recipient; (ii) the Recipient has had an opportunity to obtain legal counsel to review this Agreement; (iii) the covenants made by and duties imposed upon the Recipient hereby are fair, reasonable and minimally necessary to protect the legitimate business interests of the Releasor; (iv) such covenants and duties will not place an undue burden upon the Recipient’s livelihood in the event of termination of the Recipient’s business relationship with the Releasor and the strict enforcement of the covenants contained herein; and (v) any breach of this Agreement will cause substantial and irreparable harm to the Releasor for which money damages would be an inadequate remedy.
+
+VII. GOVERNING LAW. This Agreement shall be governed by the laws located in the State of ___________________________.
+
+
+
+Releasor’s Signature ________________________________ Date ______________
+
+
+Print Name ________________________________
+
+
+Recipient’s Signature ________________________________ Date ______________
+
+
+Print Name ________________________________
+
+<|endoftext|>
+<|startoftext|>
+
+UNILATERAL NON-DISCLOSURE AGREEMENT
+
+
+This Unilateral Non-Disclosure Agreement, known as the “Agreement”, is made this ____ day of ______________________, ____ by and between ______________________, of ______________________, City of ______________________, State of ______________________, known as the “Company”, and ______________________, of ______________________, City of ______________________, State of ______________________, known as the “Recipient”, and collectively known as the “Parties”.
+
+1. Definition of Confidentiality. As used in this Agreement, "Confidential Information" refers to any information which has commercial value and is either (i) technical information, including patent, copyright, trade secret and other proprietary information, techniques, sketches, drawings, models, inventions, know-how, processes, apparatus, equipment, algorithms, software programs, software source documents, and formulae related to the current, future and proposed products and services of Company, or (ii) non-technical information relating to Company's products including, without limitation, pricing, margins, merchandising plans and strategies, finances, financial and accounting data and information, suppliers, customers, customer lists, purchasing data, sales and marketing plans, future business plans, and any other information which is proprietary and confidential to Company.  
+
+2. Nondisclosure and Nonuse Obligations. Recipient will maintain in confidence and will not disclose, disseminate or use any Confidential Information belonging to Company, whether or not in written form. Recipient agrees that Recipient shall treat all Confidential Information of Company with at least the same degree of care as Recipient accords its own Confidential Information. Recipient further represents that Recipient exercises at least reasonable care to protect its own Confidential Information. If Recipient is not an individual, Recipient agrees that Recipient shall disclose Confidential Information only to those of its employees who need to know such information and certifies that such employees have previously signed a copy of this Agreement.
+
+3. Survival. This Agreement shall govern all communications between the Parties. Recipient understands that its obligations under Paragraph 2 ("Nondisclosure and Nonuse Obligations") shall survive the termination of any other relationship between the Parties. Upon termination of any relationship between the Parties, Recipient will promptly deliver to Company, without retaining any copies, all documents and other materials furnished to Recipient by Company.
+
+4. Governing Law.  This Agreement shall be governed in all respects by the Federal laws of the United States of America and the State laws of ______________________.
+
+5. Injunctive Relief.  A breach of any of the promises or agreements contained herein will result in irreparable and continuing damage to Company for which there will be no adequate remedy at law, and Company shall be entitled to injunctive relief and/or a decree for specific performance and such other relief as may be proper (including monetary damages if appropriate).
+
+6. Severability. The provisions of this Agreement are independent of and separable from each other, and no provision shall be affected or rendered invalid or unenforceable by virtue of the fact that for any reason any other or others of them may be invalid or unenforceable in whole or in part.
+
+
+7. Entire Agreement. This Agreement constitutes the entire agreement with respect to the Confidential Information disclosed herein and supersedes all prior or contemporaneous oral or written agreements concerning such Confidential Information. This Agreement may only be changed by mutual agreement of authorized representatives of the parties in writing.
+
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the dates written below.
+
+
+Company Representative’s Signature
+
+
+
+______________________________                                   Date _________________________
+
+
+Print Name 
+
+
+______________________________                                       
+
+
+
+
+Recipient’s Signature
+
+
+
+______________________________                                   Date _________________________
+
+
+Print Name 
+
+
+______________________________                                   
+
+<|endoftext|>
+<|startoftext|>
+
+VISITOR NON-DISCLOSURE AGREEMENT
+
+
+
+I understand that for safety and legal reasons, all information about anyone who seeks or has received the services of must be kept confidential. This includes any products or services that could be considered proprietary information. 
+
+This also includes the identity of those who seek services, their names, gender, age, number of children, addresses, types of services received, and place where the services were requested or received, and any other information that could identify the individual. I understand that this information is NOT to be shared with anyone including any private or public institutions.
+
+I will maintain the confidentiality of those people I meet at __________________________, (“establishment”) including the identities or personal details of any staff, volunteers, or patrons.
+Also, because of significant security issues, I understand that the establishment’s location must be kept confidential.
+I understand that my confidentiality obligation is on-going and it does not end when upon termination of my relationship with this establishment.
+I agree to abide by the guidelines above. I understand that failure to respect these confidentiality guidelines may result in me being barred from the establishment along with legal action if needed. Depending upon the impact of my confidentiality breach, I may also be subject to civil or criminal liability. This Agreement was created to ensure the safety and privacy of service patrons, staff, and volunteers.  I agree to notify an administrator immediately if I have questions or concerns regarding this Agreement.
+
+Visitor Signature ____________________________
+Visitor Printed Name _________________________	Date: ___________
+
+<|endoftext|>
+<|startoftext|>
+
+VOLUNTEER NON-DISCLOSURE AGREEMENT
+
+
+I. The Parties. This Volunteer Non-Disclosure Agreement, referred to as the “Agreement”, applies to ____________________________, referred to as the “Volunteer”, associated with and/or involved in the activities or affairs of ____________________________, with a mailing address of ____________________________, City of ____________________________, State of ____________________________, referred to as the “Volunteer Program”, with both the Volunteer and Volunteer Program collectively referred to as the “Parties”.
+
+II. Confidential Information. All data, materials, knowledge, and proprietary information generated through, originating from or having to do with the Volunteer Program or persons associated with its activities, including contractors, is to be considered Confidential Information and is not to be disclosed to any outside party. This includes, but is not limited to, documents, information, designs, printed matter, policies, procedures, conversations, messages (received or transmitted), resources, contacts, e-mail lists, and e-mail messages, whether internally between staff or outside the Volunteer Program is confidential and the sole property of Volunteer Program.  
+
+III. Clients. Client information, including all file information, is not be disclosed to any third party under any circumstances without the written consent of the Company.
+    
+IV. Damages. Any disclosure, misuse, copying or transmitting of any material, data, or information, whether intentional or unintentional, will subject Volunteer to disciplinary action, prosecution, and/or monetary damages according to the procedures set by Company and any applicable laws. 
+
+The signature of the Volunteer below acknowledges his/her agreement to the aforementioned terms.
+
+
+
+
+Volunteer’s Signature ________________________ Date _____________
+
+
+Print Name ________________________
+
+<|endoftext|>
+<|startoftext|>
+
+WEBSITE DESIGN NON-DISCLOSURE AGREEMENT
+
+
+I. THE PARTIES. This Website Design Non-Disclosure Agreement, hereinafter known as the “Agreement”, created on the ___ day of _________________________, ___ is by and between _________________________, hereinafter known as the “1st Party”, and _________________________, hereinafter known as the “2nd Party”, and collectively known as the “Parties”.
+
+WHEREAS, this Agreement is created for the purpose of preventing the unauthorized disclosure of the confidential and proprietary information regarding the development and design of a website, hereinafter known as the “Website Design”. The Parties agree as follows:
+
+II. TYPE OF AGREEMENT. Check One (1) 
+
+Mutual –  This Agreement shall be Mutual, whereas, the Parties shall be prohibited from disclosing confidential and proprietary information that is to be shared between one another in an effort to develop the Website Design.
+
+Unilateral – This Agreement shall be Unilateral, whereas, the 1st Party shall have sole ownership of the Website Design with the 2nd Party being prohibited from disclosing confidential and proprietary information that is to be released by the 1st Party in an effort to develop the Website Design.
+
+III. DEFINITION. For the purposes of this Agreement, the term “Confidential Information” shall include, but not be limited to, software and website products, website source code or any related codes in all formats, business plans, financial statements, customers or users, analytical data, documentation, and correspondences that have not otherwise been made publicly available. 
+
+However, Confidential Information does not include: 
+
+(a) information generally available to the public; 
+
+(b) widely used programming practices or algorithms; 
+
+(c) information rightfully in the possession of the Parties prior to signing this Agreement; and 
+
+(d) information independently developed without the use of any of the provided Confidential Information.
+
+IV. OBLIGATIONS. The obligations of the Parties shall be to hold and maintain the Confidential Information in the strictest of confidence at all times and to their agents, employees, representatives, affiliates, and any other individual or entity that is on a “need to know” basis. If any such Confidential Information shall reach a third (3rd) party or become public, all liability will be on the Party that is responsible. Neither Party shall, without the written approval of the other Party, publish, copy, or use the Confidential Information for their sole benefit. If requested, either Party shall be bound to return any and all materials to the Requesting Party within ____ days. 
+
+This Section shall not apply to the 1st Party if this Agreement is Unilateral as marked in Section II.
+
+V. TIME PERIOD. The bounded Party’s(ies’) duty to hold the Confidential Information in confidence shall remain in effect until such information no longer qualifies as a trade secret or written notice is given releasing such Party from this Agreement.
+
+VI. RELATIONSHIP. The Parties agree that there is no such statement in this Agreement that suggests any Party is an employee, partner, or that the Website Design is a joint venture. All ownership interests, if any, shall be stated in a separate agreement.
+
+VII. SEVERABILITY. If a court finds that any provision of this Agreement is invalid or unenforceable, the remainder of this Agreement shall be interpreted so as best to affect the intent of the Parties.
+
+VIII. INTEGRATION. This Agreement expresses the complete understanding of the Parties with respect to the subject matter and supersedes all prior proposals, agreements, representations, and understandings. This Agreement may not be amended except in writing with the acknowledgment of the Parties.
+
+IX. Enforcement. The Parties acknowledge and agree that due to the unique and sensitive nature of the Confidential Information, any breach of this Agreement would cause irreparable harm for which damages and or equitable relief may be sought. The harmed Party shall be entitled to all remedies available at law. 
+
+X. GOVERNING LAW. This Agreement shall be governed under the laws in the State of _________________________.
+
+
+
+1st Party’s Signature ______________________________ Date _________________
+
+
+Print Name ______________________________
+
+
+
+2nd Party’s Signature ______________________________ Date _________________
+
+
+Print Name ______________________________
+
+<|endoftext|>
