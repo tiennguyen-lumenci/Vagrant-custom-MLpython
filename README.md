@@ -1,6 +1,6 @@
 # Vagrant-custom-MLpython
 These automation script will enable a VM envirolment that has the following build in:
-- Ubuntu 18.04 latest
+- Ubuntu 16.04 Xenial latest
 - Miniconda >4.0 with python 3.7
 - Conda dev36 env with python 3.6, pandas, TF|keras without GPU support
 - Docker and Docker Compose
