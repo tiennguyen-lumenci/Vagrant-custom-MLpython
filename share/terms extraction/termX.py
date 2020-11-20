@@ -146,7 +146,7 @@ def main():
     elif (args["dir"] != "") and (os.path.isdir(args["dir"])):
         walkdir(os.getcwd(), args["dir"])
     else:
-        print("Please try again!")    
+        print("Not quite right! Please try again using -h option")    
 
 if __name__ == "__main__":
     #termX_wrapper("test1.pdf")
